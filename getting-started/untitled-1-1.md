@@ -25,3 +25,10 @@ Image 10. The Metadata Display Menu that you can access by right clicking on the
 • Spacebar will play the clip.
 • Ctrl+Spacebar (or Cmd+Spacebar) will play a clip in a loop.
 The transport controls on the Slate or Blackboard also allows you to navigate a timeline.
+
+
+5 It is also very likely that the DOP will ask you to go to a given take on a given camera.
+
+The best way to look at metadata in the timeline is to switch on metadata in the Cutview. Right-Click the Cutview and enable resolution and scene and take.
+
+6 Practice Ctrl+Clicking (Or Cmd) to navigate - either with the mouse or Wacom pen. Practice playing a whole scene with Shift+Spacebar and Ctrl+Spacebar (Or Cmd) - this will toggle between playing the whole scene and the current shot only.
