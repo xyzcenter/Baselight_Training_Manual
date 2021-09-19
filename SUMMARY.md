@@ -6,10 +6,10 @@
 
 ## Getting Started
 
-* [Creating a New Project](getting-started/untitled-4.md)
-* [Importing Footage](getting-started/grading-a-shot.md)
-* [The Timeline and Playback](getting-started/untitled-1-1.md)
-* [Returning to Colour Spaces](getting-started/untitled-1.md)
+* [Creating a New Project](getting-started/creating-a-new-project.md)
+* [Importing Footage](getting-started/importing-footage.md)
+* [The Timeline and Playback](getting-started/the-timeline-and-playback.md)
+* [Returning to Colour Spaces](getting-started/returning-to-colour-spaces.md)
 
 ## Grading
 
