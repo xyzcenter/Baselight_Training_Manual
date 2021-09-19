@@ -10,8 +10,6 @@ This section uses the Bar Scene images provided in:
 
 generalised\_colourspaces\_v01/0\_media/0\_images/BarScene
 
-
-
 ## Creating a New Project
 
 Baselight v5 Training Manual
@@ -28,10 +26,4 @@ folder, or, if on a Linux machine, open a terminal, type baselight and then pres
 The software will open with the Job Manager already visible. The Job Manager is where you can set up a ‘job’ \(a collection of Scenes\) and a ‘scene’ \(in Baselight, a ‘scene’ is a collection of shots — for example, rushes from a day’s shoot or a conformed commercial or drama – it does not necessarily relate to a scene in a script\). You can also access the Job Manager from the Scene menu at the top of the UI or by pressing Ctrl+J on the keyboard \(Cmd+J on Linux\).
 
 ![](../.gitbook/assets/image.png)
-
-
-
-
-
-
 
