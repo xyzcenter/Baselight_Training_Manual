@@ -27,8 +27,6 @@ To do this either: double-click the
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-![](../.gitbook/assets/image%20%282%29.png)
-
 Baselight icon on your desktop or in the Applications &gt; Baselight
 
 folder, or, if on a Linux machine, open a terminal, type baselight and then press Enter.
