@@ -1,8 +1,5 @@
 # Importing Footage
-
-Baselight v5 Training Manual
-
-The aim of this section is for you to familiarise yourself with some of Baselight’s grading tools. You will do a basic exposure \(brightness\) match between shots using the Film Grade. You will also be introduced to printer lights/bumps or exposure bumps.
-
-This section uses your scene from the previous section.
+  
+So far, we have a scene but it has no images. Now, look at the Baselight timeline and you will see a vertical blue line. This is the cursor. You can have multiple cursors in one scene but for the moment we will just use one.
+So, what is a cursor? It’s just a position on the timeline – just like a play head.
 
