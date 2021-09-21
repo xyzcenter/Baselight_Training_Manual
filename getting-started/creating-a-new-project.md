@@ -25,7 +25,11 @@ folder, or, if on a Linux machine, open a terminal, type baselight and then pres
 
 The software will open with the Job Manager already visible. The Job Manager is where you can set up a ‘job’ \(a collection of Scenes\) and a ‘scene’ \(in Baselight, a ‘scene’ is a collection of shots — for example, rushes from a day’s shoot or a conformed commercial or drama – it does not necessarily relate to a scene in a script\). You can also access the Job Manager from the Scene menu at the top of the UI or by pressing Ctrl+J on the keyboard \(Cmd+J on Linux\).
 
-![](../.gitbook/assets/image.png)
+![Image 01. New Job Window - Baselight launches with the Job Manager already open.](../.gitbook/assets/image.png)
+
+
+
+Image 01. New Job Window - Baselight launches with the Job Manager already open.
 
 In the Job Manager, you see three columns.
 
@@ -37,25 +41,35 @@ The third column, on the far right-hand side, displays the Scenes that you have 
 
 2 In the Job Manager – create a job called “camera\_test”. Click the actions button in the second column and choose ‘New Job’. Note that once the new job is created, the software focuses on the far- right column. Now click the Actions menu button in the third column, where you can create a ‘scene’ within the job.
 
+![ Image 02. New Scene Window - when right-clicking on the third column, a new menu opens giving the option to select &#x2018;New Scene&#x2019; \(highlighted in blue\).](../.gitbook/assets/image%20%281%29.png)
+
 Image 02. New Scene Window - when right-clicking on the third column, a new menu opens giving the option to select ‘New Scene’ \(highlighted in blue\).
 
 The ‘scene’ is where we set the various variables that relate to a project. The ‘job’ is really just the name of the project. The ‘job’ does not contain the variables relating to how the scene is set up. It’s the ‘scene’ that holds the important information about how the project is set up. When creating a ‘scene’ we must choose a: • Working Format \(a Resolution\) • Working Colour Space • Working Frame Rate
 
 But the software will prompt you.
 
+![ Image 03. The New Scene window. This is where you choose a\) Working Format, b\) Working Colour Space and c\) Working Frame Rate. See the definitions at the end of this chapter for more information.](../.gitbook/assets/image%20%288%29.png)
+
 Image 03. The New Scene window. This is where you choose a\) Working Format, b\) Working Colour Space and c\) Working Frame Rate. See the definitions at the end of this chapter for more information.
 
 3 Now that you have created a job folder, you can create a ‘scene’. You should call this “day\_1”. Note that the software is now prompting you for certain information. A general rule when setting up a scene, is to choose a wide Working Colour Space such as ACES or ARRI Log C. The Colour Space that you choose will generally not affect how the image looks but it may affect how some of the tools in Baselight react. Some tools, such as the Base Grade, have their own internal colour space so will not be affected by the Working Colour Space. We will look at Base Grade and Colour Spaces in more detail in a later section. If you are looking for a Colour Space that can be used for most situations and you are using Baselight V5, then you should use FilmLight T-Log E Gamut \(Truelight Log Extended Gamut\). If you are not using version 5, just choose a large Colour Space and if you need to understand why, take a quick look at this chromaticity diagram below.
 
+![](../.gitbook/assets/image%20%286%29.png)
+
 Image 04. Chromaticity Diagram.
 
 To start to understand the significance of colour spaces look at this diagram. Notice that Rec.709 occupies a much smaller area than all of the other Colour Spaces. This is why we would not recommend Rec.709 as a Working Colour Space unless your intended project deliverables will be limited to Rec.709. A wider working space encompasses the native Colour Space of most cameras; thus, when we’re grading we’re assured we’re not losing any fidelity.
+
+![](../.gitbook/assets/image%20%287%29.png)
 
 Image 05. Menu with various Working Colour Spaces.
 
 Let’s return to your setup. 4 In the new scene window select the Working Colour Space from the drop-down menu. 5 Choose FilmLight T-Log or ARRI Log C Wide Gamut.
 
 6 Set the Working Format \(resolution\) to Film HD 1920x1080 7 Set the Working Frame Rate to 24fps. 8 Close the Job Manager window by selecting the x icon at the top right or by pressing Ctrl+J or Cmd+J on the keyboard. Once the scene is created, if you look at the top right-hand corner of the UI you will see the name of the scene and its resolution.
+
+![](../.gitbook/assets/image%20%284%29.png)
 
 Image 06. Scene name and resolution.
 

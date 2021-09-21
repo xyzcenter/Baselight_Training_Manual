@@ -1,10 +1,12 @@
 # The Timeline and Playback
 
-The Timeline and Playback
+
 
 1 Your timeline is now assembled, so let’s take a look at how you can move between sequences.
 
 In Baselight we often use the term ‘sequence’ to refer to a shot. This term is derived from the sequence of images that make up a shot – whether it is a sequence of separate image files \(such as DPX or EXR sequences\) or a sequence of images contained within a movie file \(such as MXF or MOV\).
+
+![](../.gitbook/assets/image%20%285%29.png)
 
 Remember during a Camera Test session, you will be under a lot of pressure to react to the client’s request to jump to different shots and takes.
 
