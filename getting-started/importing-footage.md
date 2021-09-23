@@ -48,11 +48,11 @@ Take note of the volume selector button at the top left. This drop-down button p
 
 2  Navigate to the Bar Scene directory and insert the four clips. You can insert multiple shots by holding down **Cmd** and clicking the shots you want to use. You may also select a range of shots by clicking the first thumbnail and then **Shift**-clicking on the last thumbnail. All the shots in-between these shots will be added along with the two you have clicked. Any selected shots will be highlighted in yellow.
 
-![ Image 08. FLUX Manage option.](../.gitbook/assets/image%20%2811%29.png)
+![ Image 08. FLUX Manage option.](../.gitbook/assets/image%20%2812%29.png)
 
 Image 08. FLUX Manage option.
 
-![Image 09. FLUX Manage view. The large red arrow points to the volume selector.](../.gitbook/assets/image%20%2812%29.png)
+![Image 09. FLUX Manage view. The large red arrow points to the volume selector.](../.gitbook/assets/image%20%2813%29.png)
 
 Image 09. FLUX Manage view. The large red arrow points to the volume selector.
 

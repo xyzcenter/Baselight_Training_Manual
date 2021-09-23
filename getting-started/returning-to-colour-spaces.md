@@ -1,6 +1,8 @@
 # Returning to Colour Spaces
 
-Returning to Colour Spaces 1 Look for the ‘Colour Space’ section on the UI. The ‘Input’ Colour Space for the first selected clip - the C300 sequence - should be set to From Metadata. You should see something similar to the image below.
+Returning to Colour Spaces 1 Look for the ‘Colour Space’ section on the UI. The ‘Input’ Colour Space for the first selected clip - the C300 sequence - should be set to **From Metadata**. You should see something similar to the image below.
+
+![](../.gitbook/assets/image%20%2811%29.png)
 
 Image 11. Colour Space section with Input Colour Space set to From Metadata.
 
