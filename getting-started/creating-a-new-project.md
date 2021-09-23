@@ -34,9 +34,11 @@ The **second column** moving to the right \(middle column\) is where you can cre
 
 The **third column**, on the far right-hand side, displays the Scenes that you have created. These will each hold collections of shots.
 
-2 In the **Job Manager** – create a job called “camera\_test”. Click the **actions** button in the second column and choose ‘New Job’. Note that once the new job is created, the software focuses on the far- right column. Now click the Actions menu button in the third column, where you can create a ‘scene’ within the job.
+2 In the **Job Manager** – create a job called “camera\_test”. Click the 
 
 ![](../.gitbook/assets/image%20%289%29.png)
+
+**actions** button in the second column and choose ‘New Job’. Note that once the new job is created, the software focuses on the far- right column. Now click the Actions menu button in the third column, where you can create a ‘scene’ within the job.
 
 ![ Image 02. New Scene Window - when right-clicking on the third column, a new menu opens giving the option to select &#x2018;New Scene&#x2019; \(highlighted in blue\).](../.gitbook/assets/image%20%281%29.png)
 
