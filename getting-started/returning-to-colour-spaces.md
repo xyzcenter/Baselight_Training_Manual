@@ -2,29 +2,37 @@
 
 Returning to Colour Spaces 1 Look for the ‘Colour Space’ section on the UI. The ‘Input’ Colour Space for the first selected clip - the C300 sequence - should be set to **From Metadata**. You should see something similar to the image below.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![ Image 11. Colour Space section with Input Colour Space set to From Metadata.](../.gitbook/assets/image%20%2815%29.png)
 
 Image 11. Colour Space section with Input Colour Space set to From Metadata.
 
-When you select a clip in the timeline before any colour correction layers have been applied, only information relating to the characteristics of the source is shown. This information is referred to as Layer 0. For example, in Layer 0 you will see the file path to the sequence on disk, its resolution and its Colour Space.
+When you select a clip in the timeline before any colour correction layers have been applied, only information relating to the characteristics of the source is shown. This information is referred to as **Layer** **0**. For example, in **Layer 0** you will see the file path to the sequence on disk, its resolution and its Colour Space.
 
-2 Now move to the second clip in the timeline \(Alt+X or drag the cursor\). If this is the file from the Epic camera you will see that the ICS is set to Automatic.
+2 Now move to the second clip in the timeline \(**Alt+X** or drag the cursor\). If this is the file from the Epic camera you will see that the ICS is set to Automatic.
 
+{% hint style="info" %}
 Remember if the source images are in a raw format from manufacturers such as Red or Arri, Baselight will automatically decode the files into the correct colour space.
+{% endhint %}
+
+![ Image 12. Colour Space section with Input Colour Space set to Automatic.](../.gitbook/assets/image%20%2811%29.png)
 
 Image 12. Colour Space section with Input Colour Space set to Automatic.
 
 Let’s have a quick recap of what you have done so far. You have created a HD scene and you have chosen a Working Colour Space of either Arri Log C Wide Gamut or FilmLight T-Log E Gamut.
 
-You have now imported 4 sequences from different cameras. You have seen that if a source sequence is in a raw format, the Input Colour Space will be set to Automatic; if the source image is not a raw format but has colour information set in the header file the Colour Space will be set to From Metadata.
+You have now imported 4 sequences from different cameras. You have seen that if a source sequence is in a raw format, the Input Colour Space will be set to **Automatic**; if the source image is not a raw format but has colour information set in the header file the Colour Space will be set to **From Metadata**.
 
-Now your Scene is set up, we must set a third Colour Space. This is the Viewing Colour Space that we also sometimes call the Cursor Colour Space. We set a Viewing Colour Space so that our images are viewed correctly. When we set the Viewing Colour Space we match it to the Colour Space of our viewing device. On monitors this is often Rec 709 \(Rec 1886 2.4 gamma rec 709\). And if we are using Baselight STUDENT on a Mac laptop, then this would probably be sRGB.
+Now your Scene is set up, we must set a third Colour Space. This is the **Viewing Colour Space** that we also sometimes call the Cursor Colour Space. We set a Viewing Colour Space so that our images are viewed correctly. When we set the Viewing Colour Space we match it to the Colour Space of our viewing device. On monitors this is often Rec 709 \(Rec 1886 2.4 gamma rec 709\). And if we are using Baselight STUDENT on a Mac laptop, then this would probably be sRGB.
 
 3 Set the Colour Space that is appropriate to your viewing device. Remember you need to know the Viewing Colour Space of your monitor – and if working on a laptop with no SDI out, the Colour Space will typically be sRGB.
+
+
 
 Image 13. Options on the Viewing Colour Space menu.
 
 Note the ‘Use these cursor settings...’ options in the Actions menu within the Cursors section of the UI; this means you can avoid having to set the Viewing Colour Space every time you open the scene again.
+
+![](../.gitbook/assets/image%20%2816%29.png)
 
 Why do I have to set up Colour Spaces in so many different places – why can’t I keep everything the same all the way through?
 
