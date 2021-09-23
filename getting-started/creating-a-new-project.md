@@ -62,7 +62,7 @@ Image 05. Menu with various Working Colour Spaces.
 
 Let’s return to your setup. 4 In the new scene window select the Working Colour Space from the drop-down menu. 5 Choose FilmLight T-Log or ARRI Log C Wide Gamut.
 
-6 Set the Working Format \(resolution\) to Film HD 1920x1080 7 Set the Working Frame Rate to 24fps. 8 Close the Job Manager window by selecting the x icon at the top right or by pressing Ctrl+J or Cmd+J on the keyboard. Once the scene is created, if you look at the top right-hand corner of the UI you will see the name of the scene and its resolution.
+6 Set the Working Format \(resolution\) to Film HD 1920x1080 7 Set the Working Frame Rate to 24fps. 8 Close the Job Manager window by selecting the x icon at the top right or by pressing **Ctrl+J** or **Cmd+J** on the keyboard. Once the scene is created, if you look at the top right-hand corner of the UI you will see the name of the scene and its resolution.
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
