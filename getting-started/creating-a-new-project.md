@@ -18,8 +18,7 @@ In this chapter you will learn about formats, creating projects, assembling a ti
 
 The aim of this section is for you to be able to set up a scene for a camera test, as well as run the camera test session with the DOP \(director of photography\) and the director.
 
-1 Open Baselight.  
-Baselight v5 Training Manual ![]<img src="../.gitbook/assets/image%20%283%29.png" width="50" height="50" /> ) Baselight icon on your desktop or in the Applications &gt; Baselight
+1 Open Baselight.  Baselight v5 Training Manual ! ](../.gitbook/assets/image%20%283%29.png) Baselight icon on your desktop or in the Applications &gt; Baselight
 
 NEW TEST :  <center><img src="../.gitbook/assets/image%20%283%29.png" width="100" height="100"></center>
 
