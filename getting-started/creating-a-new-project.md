@@ -28,13 +28,13 @@ Image 01. New Job Window - Baselight launches with the Job Manager already open.
 
 In the Job Manager, you see **three columns**.
 
-The first column on the left-hand side is labeled ‘Host’. This indicates where the job database is located, so this could be the machine you are working on, or if you are working in a larger facility, it could also be another Baselight system or a server.
+The **first column** on the left-hand side is labeled ‘Host’. This indicates where the job database is located, so this could be the machine you are working on, or if you are working in a larger facility, it could also be another Baselight system or a server.
 
-The second column moving to the right \(middle column\) is where you can create a new ‘job’: place the arrow/mouse on this column and right-click, which will give you the option to create a New Job \(or place the mouse on the Actions menu button and click it\). Again, the job is like a project where you may keep various scenes.
+The **second column** moving to the right \(middle column\) is where you can create a new ‘job’: place the arrow/mouse on this column and right-click, which will give you the option to create a New Job \(or place the mouse on the Actions menu button and click it\). Again, the job is like a project where you may keep various scenes.
 
-The third column, on the far right-hand side, displays the Scenes that you have created. These will each hold collections of shots.
+The **third column**, on the far right-hand side, displays the Scenes that you have created. These will each hold collections of shots.
 
-2 In the Job Manager – create a job called “camera\_test”. Click the actions button in the second column and choose ‘New Job’. Note that once the new job is created, the software focuses on the far- right column. Now click the Actions menu button in the third column, where you can create a ‘scene’ within the job.
+2 In the **Job Manager** – create a job called “camera\_test”. Click the **actions** button in the second column and choose ‘New Job’. Note that once the new job is created, the software focuses on the far- right column. Now click the Actions menu button in the third column, where you can create a ‘scene’ within the job.
 
 ![ Image 02. New Scene Window - when right-clicking on the third column, a new menu opens giving the option to select &#x2018;New Scene&#x2019; \(highlighted in blue\).](../.gitbook/assets/image%20%281%29.png)
 
@@ -46,7 +46,7 @@ But the software will prompt you.
 
 ![ Image 03. The New Scene window. This is where you choose a\) Working Format, b\) Working Colour Space and c\) Working Frame Rate. See the definitions at the end of this chapter for more information.](../.gitbook/assets/image%20%288%29.png)
 
-Image 03. The New Scene window. This is where you choose a\) Working Format, b\) Working Colour Space and c\) Working Frame Rate. See the definitions at the end of this chapter for more information.
+Image 03. The New Scene window. This is where you choose a\) **Working Format**, b\) **Working Colour Space** and c\) **Working Frame Rate**. See the definitions at the end of this chapter for more information.
 
 3 Now that you have created a job folder, you can create a ‘scene’. You should call this “day\_1”. Note that the software is now prompting you for certain information. A general rule when setting up a scene, is to choose a wide Working Colour Space such as ACES or ARRI Log C. The Colour Space that you choose will generally not affect how the image looks but it may affect how some of the tools in Baselight react. Some tools, such as the Base Grade, have their own internal colour space so will not be affected by the Working Colour Space. We will look at Base Grade and Colour Spaces in more detail in a later section. If you are looking for a Colour Space that can be used for most situations and you are using Baselight V5, then you should use FilmLight T-Log E Gamut \(Truelight Log Extended Gamut\). If you are not using version 5, just choose a large Colour Space and if you need to understand why, take a quick look at this chromaticity diagram below.
 
