@@ -14,9 +14,9 @@
 ## Grading
 
 * [Grading a Shot](grading/grading-a-shot.md)
-* [Accessing Layers and the Grading Tools ..... 13](grading/accessing-layers-and-the-grading-tools-.....-13.md)
+* [Accessing Layers and the Grading Tools](grading/accessing-layers-and-the-grading-tools-.....-13.md)
 * [Did we say Layer 0?](grading/did-we-say-layer-0.md)
-* [What does Layer 0 mean and how is it different to other layers? ...... 14](grading/what-does-layer-0-mean-and-how-is-it-different-to-other-layers.md)
+* [What does Layer 0 mean and how is it different to other layers?](grading/what-does-layer-0-mean-and-how-is-it-different-to-other-layers.md)
 * [Why choose Film Grade?](grading/why-choose-film-grade.md)
 * [Let’s Return to the Grading Suite](grading/lets-return-to-the-grading-suite.md)
 * [Configuring Film Grade to Work in Printer Lights](grading/configuring-film-grade-to-work-in-printer-lights.md)
