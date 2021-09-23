@@ -25,10 +25,8 @@ Comparing the results of different cameras is the reason why film crews do camer
 **Baselight will automatically identify the correct Input Colour Space by analysing the file** providing the Input Colour Space Mode is set to automatic or ‘’from metadata’.
 
 {% hint style="info" %}
-
+If your files are in a raw format, Baselight automatically decodes them into an appropriate Colour Space. Alternatively, if the source file is not a raw format and there is colour information in the file metadata, Baselight will read that information in the header and apply the correct Colour Space. If this is not the behavior that you experience, check the correct options are set in bl-setups. In the New Scenes tab check that "Prefer Automatic/From Metadata" is active or this won't work.
 {% endhint %}
-
-> If your files are in a raw format, Baselight automatically decodes them into an appropriate Colour Space. Alternatively, if the source file is not a raw format and there is colour information in the file metadata, Baselight will read that information in the header and apply the correct Colour Space. If this is not the behavior that you experience, check the correct options are set in bl-setups. In the New Scenes tab check that "Prefer Automatic/From Metadata" is active or this won't work.
 
 The Viewing Colour Space should match the colour space of your viewing device. By setting this correctly and ensuring the display is correctly calibrated we know we are viewing the images correctly.
 
