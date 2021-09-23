@@ -1,12 +1,28 @@
 # Importing Footage
 
-So far, we have a scene but it has no images. Now, look at the Baselight timeline and you will see a vertical blue line. This is the cursor. You can have multiple cursors in one scene but for the moment we will just use one. So, what is a cursor? It’s just a position on the timeline – just like a play head.
+So far, we have a scene but it has no images. Now, look at the Baselight timeline and you will see a vertical blue line. This is the cursor. You can have multiple cursors in one scene but for the moment we will just use one. 
+
+So, what is a cursor? It’s just a position on the timeline – just like a play head.
+
+![ Image 07. Cursor on the timeline.](../.gitbook/assets/image%20%2810%29.png)
 
 Image 07. Cursor on the timeline.
 
-For the Camera test you will insert 4 shots from 4 different cameras into the timeline. When you first created the scene, you chose a Working Colour Space; however, this isn’t the only place where the Colour Space is significant. There are three main areas where you need to set up the colour spaces in Baselight. • The Working Colour Space when you first set up a scene. This can also be accessed from Views -&gt; Scene Settings. • The Input Colour Space when clips are inserted into the timeline. • The Viewing Colour Space \(also known as the Display Colour Space\). The Working Colour Space could almost be considered as the size of the world that you want to work in. In most instances, grading in a large Colour Space is a good thing,
+For the Camera test you will insert 4 shots from 4 different cameras into the timeline. When you first created the scene, you chose a Working Colour Space; however, this isn’t the only place where the Colour Space is significant. 
 
-Every time you insert a new set of images into the scene it is essential to identify their correct Input Colour Space. Colour Spaces used by different camera manufacturers are usually different. Comparing the results of different cameras is the reason why film crews do camera tests – so you need to get the science right if you are setting up the scene. Fortunately, this process is simple in Baselight. Baselight will automatically identify the correct Input Colour Space by analysing the file providing the Input Colour Space Mode is set to automatic or ‘’from metadata’.
+There are three main areas where you need to set up the colour spaces in Baselight. 
+
+• The Working Colour Space when you first set up a scene. This can also be accessed from Views -&gt; Scene Settings.   
+• The Input Colour Space when clips are inserted into the timeline.   
+• The Viewing Colour Space \(also known as the Display Colour Space\). 
+
+The Working Colour Space could almost be considered as the size of the world that you want to work in. In most instances, grading in a large Colour Space is a good thing,
+
+Every time you insert a new set of images into the scene it is essential to identify their correct Input Colour Space. Colour Spaces used by different camera manufacturers are usually different. 
+
+Comparing the results of different cameras is the reason why film crews do camera tests – so you need to get the science right if you are setting up the scene. Fortunately, this process is simple in Baselight. 
+
+**Baselight will automatically identify the correct Input Colour Space by analysing the file** providing the Input Colour Space Mode is set to automatic or ‘’from metadata’.
 
 If your files are in a raw format, Baselight automatically decodes them into an appropriate Colour Space. Alternatively, if the source file is not a raw format and there is colour information in the file metadata, Baselight will read that information in the header and apply the correct Colour Space. If this is not the behavior that you experience, check the correct options are set in bl-setups. In the New Scenes tab check that "Prefer Automatic/From Metadata" is active or this won't work.
 
