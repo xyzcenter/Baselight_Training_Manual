@@ -18,27 +18,21 @@ This will add a layer to the shot you have selected in your timeline.
 
 When you add a layer, controls will appear in the Parameters view – these are the controls for the currently selected grading operator. Take a moment to look at the user interface. You will see a column of grading options including Base Grade, Film Grade, Video Grade, Curve Grade and Hue Shift.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![ Image 17. Grading tools available after you add Layer1. The large red arrow points to the Layer 1 indicator. The small arrow points to the grid of available grading tools. Note also that Film Grade is selected in the user interface.](../.gitbook/assets/image%20%2813%29.png)
 
 Image 17. Grading tools available after you add Layer1. The large red arrow points to the Layer 1 indicator. The small arrow points to the grid of available grading tools. Note also that Film Grade is selected in the user interface.
 
 When you select a grading operator, the controls for that operator become active in the Parameters view to the left of the grid. So, if you select Video Grade you will see controls labelled Lift, Gamma, Gain. If you select Film Grade you will see controls relating to Exposure, Saturation and Contrast.
 
-![](../.gitbook/assets/image%20%2814%29.png)
-
-
-
-
+![ Image 18. The full user interface associated with Film Grade. In Film Grade, some of the controls are organised into tabs. The controls are completely customisable but when you first open the software and access Film Grade you see two sets of tabs. On the first tab you see Exposure, Contrast and Saturation and on the second, Shadows, Midtones and Highlights.](../.gitbook/assets/image%20%2815%29.png)
 
 Image 18. The full user interface associated with Film Grade. In Film Grade, some of the controls are organised into tabs. The controls are completely customisable but when you first open the software and access Film Grade you see two sets of tabs. On the first tab you see Exposure, Contrast and Saturation and on the second, Shadows, Midtones and Highlights.
-
-
-
-Baselight v5 Training Manual
 
 Each grading layer has a default grading operator defined in the layer preferences – this determines the grading controls which you will see when you first add the layer.
 
 By default, when you add a new layer and before any grading changes have been made, the name of the operator is displayed in white. Once a change has been applied, the name of the operator turns blue.
+
+![ Image 19. The colour of the text in &#x2018;Film Grade&#x2019; changes once you start to colour the image.](../.gitbook/assets/image%20%2812%29.png)
 
 Image 19. The colour of the text in ‘Film Grade’ changes once you start to colour the image.
 

@@ -1,12 +1,12 @@
 # Why choose Film Grade?
 
-Baselight v5 Training Manual
-
 Many colourists prefer to start with Base Grade these days as it provides a more natural set of grading controls. However, as it is a more complex tool we will cover it later on, so to keep things simple at the start we will use Film Grade for this example.
 
 There are many reasons to choose Film Grade, but one very simple reason is that it allows you to work in printer lights \(sometimes also called printer points or exposure bumps\). This means you can be very accurate in dealing with brightness changes or the DOP’s request to add or subtract a couple of points of red. You cannot do this in the Video Grade.
 
 Let’s spend a moment getting a general feel of the Exposure parameter before we reconfigure.
+
+![Image 20. The &#x2018;Film Grade&#x2019; colour wheel. The large red arrow points towards the Exposure \(Brightness\) slider. The small arrow points to the colour wheel, which allows you to change the overall hue of an image.](../.gitbook/assets/image%20%2822%29.png)
 
 Image 20. The ‘Film Grade’ colour wheel. The large red arrow points towards the Exposure \(Brightness\) slider. The small arrow points to the colour wheel, which allows you to change the overall hue of an image.
 

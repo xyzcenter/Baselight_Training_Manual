@@ -2,7 +2,7 @@
 
 Returning to Colour Spaces 1 Look for the ‘Colour Space’ section on the UI. The ‘Input’ Colour Space for the first selected clip - the C300 sequence - should be set to **From Metadata**. You should see something similar to the image below.
 
-![ Image 11. Colour Space section with Input Colour Space set to From Metadata.](../.gitbook/assets/image%20%2819%29.png)
+![ Image 11. Colour Space section with Input Colour Space set to From Metadata.](../.gitbook/assets/image%20%2820%29.png)
 
 Image 11. Colour Space section with Input Colour Space set to From Metadata.
 
@@ -14,7 +14,7 @@ When you select a clip in the timeline before any colour correction layers have 
 Remember if the source images are in a raw format from manufacturers such as Red or Arri, Baselight will automatically decode the files into the correct colour space.
 {% endhint %}
 
-![ Image 12. Colour Space section with Input Colour Space set to Automatic.](../.gitbook/assets/image%20%2813%29.png)
+![ Image 12. Colour Space section with Input Colour Space set to Automatic.](../.gitbook/assets/image%20%2814%29.png)
 
 Image 12. Colour Space section with Input Colour Space set to Automatic.
 
@@ -28,7 +28,7 @@ Now your Scene is set up, we must set a third Colour Space. This is the **Viewin
 
 
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 Image 13. Options on the Viewing Colour Space menu.
 
@@ -57,7 +57,7 @@ To open the **Colour Space Journey** go to the menu bar at the top of the UI. Se
 
 
 
-![ Image 14. Colour Space Journey option.](../.gitbook/assets/image%20%2815%29.png)
+![ Image 14. Colour Space Journey option.](../.gitbook/assets/image%20%2816%29.png)
 
 Image 14. Colour Space Journey option.
 
@@ -71,7 +71,7 @@ The Colour Space Journey is useful because it shows you the following:
   It also provides you with hints and warnings if it doesn’t think what you are doing is correct.
 {% endhint %}
 
-![ Image 15. Warnings in the Colour Space Journey.](../.gitbook/assets/image%20%2822%29.png)
+![ Image 15. Warnings in the Colour Space Journey.](../.gitbook/assets/image%20%2824%29.png)
 
 Image 15. Warnings in the Colour Space Journey.
 

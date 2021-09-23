@@ -10,7 +10,7 @@ In Baselight we often use the term ‘sequence’ to refer to a shot. This term 
 
 Remember during a Camera Test session, you will be under a lot of pressure to react to the client’s request to jump to different shots and takes.
 
-![Image 10. The Metadata Display Menu that you can access by right clicking on the Cuts view.](../.gitbook/assets/image%20%2821%29.png)
+![Image 10. The Metadata Display Menu that you can access by right clicking on the Cuts view.](../.gitbook/assets/image%20%2823%29.png)
 
 Image 10. The Metadata Display Menu that you can access by right clicking on the Cuts view.
 
