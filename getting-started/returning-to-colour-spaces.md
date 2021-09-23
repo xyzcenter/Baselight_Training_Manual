@@ -2,7 +2,7 @@
 
 Returning to Colour Spaces 1 Look for the ‘Colour Space’ section on the UI. The ‘Input’ Colour Space for the first selected clip - the C300 sequence - should be set to **From Metadata**. You should see something similar to the image below.
 
-![ Image 11. Colour Space section with Input Colour Space set to From Metadata.](../.gitbook/assets/image%20%2815%29.png)
+![ Image 11. Colour Space section with Input Colour Space set to From Metadata.](../.gitbook/assets/image%20%2816%29.png)
 
 Image 11. Colour Space section with Input Colour Space set to From Metadata.
 
@@ -28,11 +28,13 @@ Now your Scene is set up, we must set a third Colour Space. This is the **Viewin
 
 
 
+![](../.gitbook/assets/image%20%2817%29.png)
+
 Image 13. Options on the Viewing Colour Space menu.
 
+{% hint style="info" %}
 Note the ‘Use these cursor settings...’ options in the Actions menu within the Cursors section of the UI; this means you can avoid having to set the Viewing Colour Space every time you open the scene again.
-
-![](../.gitbook/assets/image%20%2816%29.png)
+{% endhint %}
 
 Why do I have to set up Colour Spaces in so many different places – why can’t I keep everything the same all the way through?
 
@@ -40,12 +42,26 @@ Well, if you really wanted to you could. You could tag everything with one Colou
 
 By distinguishing between Input, Working and Viewing Colour Spaces, you can more easily mix different types of material in a project and the images should look correct when you start grading. So, if you have set up a scene with a Working Colour Space as Arri Log C wide gamut because most of your material is Arri – but then a producer asks you to also insert some Rec 709 stock footage - it’s all fine! Remember you just need to make sure that the Input Colour Space is tagged correctly or you let Baselight do the work and set the inputs to read From Metadata or Automatic.
 
-If you set up your scene correctly by properly identifying... • Working Colour Space • Input Colour Space • Viewing Colour Space ...you can then render to any Colour Space that is required for the project. So yes, you could deliver for cinema, TV or even Youtube without having to do a regrade.
+If you set up your scene correctly by properly identifying...   
+• Working Colour Space   
+• Input Colour Space   
+• Viewing Colour Space 
 
-If you want to check out this process, the Colour Space Journey window is useful. This provides an overview of what is happening on a shot by shot basis to the images in the timeline. To open the Colour Space Journey go to the menu bar at the top of the UI. Select Views and choose Colour Space Journey or press Shift+Ctrl+J on the keyboard \(Or Shift+Cmd+J\)
+...you can then render to any Colour Space that is required for the project. So yes, you could deliver for cinema, TV or even Youtube without having to do a regrade.
+
+{% hint style="info" %}
+If you want to check out this process, the **Colour Space Journey** window is useful. This provides an overview of what is happening on a shot by shot basis to the images in the timeline. 
+
+To open the **Colour Space Journey** go to the menu bar at the top of the UI. Select Views and choose Colour Space Journey or press **Shift+Ctrl+J** on the keyboard \(Or **Shift+Cmd+J**\)
+{% endhint %}
+
+
+
+![ Image 14. Colour Space Journey option.](../.gitbook/assets/image%20%2812%29.png)
 
 Image 14. Colour Space Journey option.
 
+{% hint style="info" %}
 The Colour Space Journey is useful because it shows you the following:
 
 * The Input Colour Space of the selected clip.
@@ -53,6 +69,9 @@ The Colour Space Journey is useful because it shows you the following:
 * The Viewing Colour Space of the scene.
 
   It also provides you with hints and warnings if it doesn’t think what you are doing is correct.
+{% endhint %}
+
+![ Image 15. Warnings in the Colour Space Journey.](../.gitbook/assets/image%20%2819%29.png)
 
 Image 15. Warnings in the Colour Space Journey.
 
