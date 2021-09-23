@@ -18,17 +18,20 @@ In this chapter you will learn about formats, creating projects, assembling a ti
 
 The aim of this section is for you to be able to set up a scene for a camera test, as well as run the camera test session with the DOP \(director of photography\) and the director.
 
-1 Open Baselight.  Baselight v5 Training Manual ! ](../.gitbook/assets/image%20%283%29.png) Baselight icon on your desktop or in the Applications &gt; Baselight
+1 Open Baselight.  
+Baselight v5 Training Manual !\[\]![](../.gitbook/assets/image%20%283%29.png) \) Baselight icon on your desktop or in the Applications &gt; Baselight
 
-NEW TEST :  <center><img src="../.gitbook/assets/image%20%283%29.png" width="100" height="100"></center>
+1 Open Baselight. Baselight v5 Training Manual ! \]\(../.gitbook/assets/image%20%283%29.png\) Baselight icon on your desktop or in the Applications &gt; Baselight
+
+
+
+![](https://github.com/xyzcenter/Baselight_Training_Manual/tree/a94ec22b3e5c94ff24278788d9c31ceaf7e52718/.gitbook/assets/image%20%283%29.png)
 
 folder, or, if on a Linux machine, open a terminal, type baselight and then press Enter.
 
 The software will open with the Job Manager already visible. The Job Manager is where you can set up a ‘job’ \(a collection of Scenes\) and a ‘scene’ \(in Baselight, a ‘scene’ is a collection of shots — for example, rushes from a day’s shoot or a conformed commercial or drama – it does not necessarily relate to a scene in a script\). You can also access the Job Manager from the Scene menu at the top of the UI or by pressing Ctrl+J on the keyboard \(Cmd+J on Linux\).
 
 ![Image 01. New Job Window - Baselight launches with the Job Manager already open.](../.gitbook/assets/image.png)
-
-
 
 Image 01. New Job Window - Baselight launches with the Job Manager already open.
 
