@@ -25,8 +25,8 @@
 
 ## More on Grading
 
-* [Setting Up a Basic Primary Grade ..... 24](more-on-grading/untitled-6.md)
-* [Video Grade ...... 28](more-on-grading/video-grade-......-28.md)
+* [Setting Up a Basic Primary Grade](more-on-grading/setting-up-a-basic-primary-grade.md)
+* [Video Grade](more-on-grading/video-grade.md)
 * [Viewing Matte Channels and Images ...... 31](more-on-grading/viewing-matte-channels-and-images-......-31.md)
 
 ## The Different Baselight Grading Tools ..... 34 <a id="the-different-baselight-grading-tools-.....-34-1"></a>

@@ -1,12 +1,8 @@
-# Setting Up a Basic Primary Grade ..... 24
-
-
+# Setting Up a Basic Primary Grade
 
 This section uses the Bar Scene images provided in:
 
 generalised\_colourspaces\_v01/0\_media/0\_images/BarScene
-
-
 
 This section will teach you how to set up a primary grade. We will look at Film Grade and Video Grade. We will also cover shapes and set up a basic ellipse shape, which is often used to apply a vignette effect to a shot.
 
@@ -20,15 +16,7 @@ When you navigate to the material you want to use, you can see the frame rate di
 
 ![Image 32. FLUX Manage window. The arrow points to the metadata of the selected file.](../.gitbook/assets/2021-10-06-00.29.05.png)
 
-
-
-
-
 When you have created your scene, make sure that you are viewing your images in the correct colour space. The Viewing Colour Space you set must always match your display device. Look back at the previous section on this if you can’t remember where you set this option.
-
-
-
-
 
 So, for example, if I needed to create a UHDTV job and I had a capable monitor, the monitor may need to be set to Rec2020. In Baselight, I would also have to choose a Rec 2020 Viewing Colour Space to match the monitor.
 
@@ -40,10 +28,6 @@ If I was working on a feature film in a grading theatre and the projector was se
 
 ![Image 33. Baselight user interface. The menu for choosing the Viewing Colour Space is open. The red arrow points to the list of display-referred colour spaces as indicted by the monitor icons.](../.gitbook/assets/2021-10-06-00.29.43.png)
 
-
-
-
-
 To save the Viewing Colour Space, select the Actions button \(located in the Cursors Section of the interface\) and choose either ‘Use these cursor settings when this scene is opened’, or ‘Use these cursor settings when scenes in this job are opened’.
 
 It’s probably advisable to always save your Colour Space. If you were acting as an assistant for a colourist and the correct Colour Space was not set before they started work, they would be mightily unhappy.
@@ -52,38 +36,24 @@ In fact, always remember to check that the Viewing Colour Space is correct. Let�
 
 **ALWAYS DOUBLE CHECK THAT YOUR VIEWING COLOUR SPACE MATCHES YOUR DISPLAY DEVICE.**
 
-
-
 ![Image 34. Cursor saving option. The red arrow points to the cog menu where you can save the settings.](../.gitbook/assets/2021-10-06-00.30.20.png)
-
-
-
-
 
 In the following example, as mentioned previously, we will use the bar scene images, but the instructions should apply to any sequence. Ideally you are feeling confident enough to experiment and will use your own material.
 
 Your scene should be open. Remember even if your scene is empty we know if it is open by looking at the top right corner of the Baselight user interface where the resolution and name of a scene appears. Also, all scenes have a cursor – even empty scenes. Hopefully you haven’t forgotten that the vertical light blue line that you see in the timeline is called a cursor. You may want to think of it as a playhead.
 
-
-
 ![Image 35. A scene that has been created but is still empty. The name and resolution are indicated by the long red arrow. The short arrow points to the Viewing Colour Space, which has not yet been set correctly.](../.gitbook/assets/2021-10-06-00.30.52.png)
 
-
-
-2.  Go to the Views menu and open the FLUX manage.
-3.  Navigate to the shot you wish to use, or if you want to follow these set of instructions exactly navigate to and insert the clips from:
+1. Go to the Views menu and open the FLUX manage.
+2. Navigate to the shot you wish to use, or if you want to follow these set of instructions exactly navigate to and insert the clips from:
 
 /images1/generalised\_colourspaces\_v01/0\_media/0\_images/BarScene/Epic
-
-
-
-
 
 Now let’s apply a primary grading layer \(Layer 1\).  
 4. Make sure the clip you want to grade is selected.
 
 ![Image 36. A scene before layers are added. The red arrow points to the first clip, which is selected in the timeline. When a clip is selected Baselight knows where to add grading layers.](../.gitbook/assets/2021-10-06-00.31.37.png)
 
-5.  If you are using Baselight STUDENT, press P on the keyboard. If you are using Blackboard, press Layer1.
-6.  Select the Video Grade.
+1. If you are using Baselight STUDENT, press P on the keyboard. If you are using Blackboard, press Layer1.
+2. Select the Video Grade.
 
