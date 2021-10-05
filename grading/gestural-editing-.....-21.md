@@ -1,16 +1,11 @@
 # Gestural Editing
 
-Baselight v5 Training Manual
-
-1 To turn on gestural editing, go to the Edit Menu and choose Gestural Editing.
+1. To turn on gestural editing, go to the Edit Menu and choose **Gestural Editing**.
 
 Once gestural editing is active, if the Film Grade controls are selected and you move your cursor to the image area, grading controls will be available to you on the display screen.
 
 ![Image 30. Film Grade Exposure control active on the image area. Gestural Editing has been activated in the Edit menu.](../.gitbook/assets/2021-10-06-00.25.19.png)
 
-
-
-Baselight v5 Training Manual
 
 Let’s recap. You have applied a layer to each of your shots. \(If you haven’t applied a Layer 1 to each shot please move through the timeline and do this now\). You have selected a Film Grade and you have started to explore the Exposure control. You have also seen that the Film Grade is configurable, with options available like printer lights and gestural editing. Hopefully you have attached an external keyboard and experimented with printer lights.
 
@@ -20,15 +15,15 @@ You may be wondering why you are working only with exposure. You will have notic
 
 
 
-Baselight v5 Training Manual
 
-2 Move through the timeline and for each shot change adjust the Exposure setting so that the shots match.
+
+2. Move through the timeline and for each shot change adjust the Exposure setting so that the shots match.
 
 In this exercise, you are matching the shots by eye. However, to help with accuracy you can also start to look at the histogram, which appears in Baselight by default. We don’t provide a full explanation in this section, but it’s a useful tool to refer to when working with image.
 
 
 
-Baselight v5 Training Manual
+
 
 2 Move through the timeline and for each shot change adjust the Exposure setting so that the shots match.
 

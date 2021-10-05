@@ -1,6 +1,6 @@
 # Accessing the Printer Light Functionality
 
-Baselight v5 Training Manual
+
 
 Slate and Blackboard
 
@@ -16,5 +16,4 @@ If you don’t have access to an external keyboard, another useful option is to 
 
 ![Image 29. Edit menu options. The Gestural Editing option is highlighted in blue.](../.gitbook/assets/2021-10-06-00.23.58.png)
 
-Image 29. Edit menu options. The Gestural Editing option is highlighted in blue.
 
