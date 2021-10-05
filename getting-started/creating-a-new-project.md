@@ -16,22 +16,23 @@ _generalised\_colourspaces\_v01/0\_media/0\_images/BarScene_
 
 1. 베이스라이트 프로그램을 엽니다. 
 
-이렇게 하려면, 당신의 데스크탑 또는 Application > Baselight 폴더에서 **베이스라이트 아이콘**을 더블 클릭하거나, ![](../.gitbook/assets/image%20%283%29.png) 또는 리눅스 시스템의 경우, 터미널(Terminal)을 열고 **baselight** 라고 치고 엔터(enter)를 누르면 됩니다. 
+이렇게 하려면, 당신의 데스크탑 또는 Application > Baselight 폴더에서 **베이스라이트 아이콘**을 [](../.gitbook/assets/image%20%283%29.png)  더블 클릭하거나, !또는 리눅스 시스템의 경우, 터미널(Terminal)을 열고 **baselight** 라고 치고 엔터(enter)를 누르면 됩니다. 
 
-The software will open with the **Job Manager** already visible. The Job Manager is where you can set up a ‘job’ \(a collection of Scenes\) and a ‘scene’ \(in Baselight, a ‘scene’ is a collection of shots — for example, rushes from a day’s shoot or a conformed commercial or drama – it does not necessarily relate to a scene in a script\). You can also access the Job Manager from the Scene menu at the top of the UI or by pressing **Ctrl+J** on the keyboard \(**Cmd+J** on Linux\).
+베이스라이트 소프트웨어는 **잡 매니저**(Job Manager;작업관리자)와 같이 열립니다. 잡 매니저에서는  잡과 씬을 설정할 수 있습니다. (베이스라이트에서는 잡은 '씬'의 모음입니다. 씬의 샷의 모음이며,예를 들면, 하루치 촬영본 또는 광고나 드라마에서 컨펌본 입니다.  - 이는 대본과 꼭 관련있지는 않습니다.)
+UI 상단의 씬 메뉴에서 잡매니저을 열거나 키보드의 **Ctrl+J** 눌러서 엑세스 할 수 있습니다. 리눅스의 경우 **Cmd+J**.
 
-![Image 01. New Job Window - Baselight launches with the Job Manager already open.](../.gitbook/assets/image.png)
+![Image 01. 새 작업 창 - 잡매니저가 이미 열린 상태로 베이스라이트가 시작됩니다.](../.gitbook/assets/image.png)
 
-Image 01. New Job Window - Baselight launches with the Job Manager already open.
-이미지01. 새로운 잡 윈도우 - 잡매니저가 열린채로 베이스라이트가 시작됩니다. 
+Image 01. 새 작업 창 - 잡매니저가 이미 열린 상태로 베이스라이트가 시작됩니다.
 
-In the Job Manager, you see **three columns**.
-잡 매니저에서는 3개의 컬럼을 볼 수 있습니다. 
+잡매니저에서는 **3개의 열**을 볼 수 있습니다. 
 
-The **first column** on the left-hand side is labeled ‘Host’. This indicates where the job database is located, so this could be the machine you are working on, or if you are working in a larger facility, it could also be another Baselight system or a server.
-첫번째 컬런은 왼쪽편의 호스트(host) 이며, 잡 데이터베이스가 위치한 것을 표시합니다. 
+왼쪽의 **첫번째 열**은 호스트(Host)라고 불리웁니다. 이것은 작업 데이터베이스가 있는 위치를 나타내므로 작업중인 시스템 또는 대형 후반 제작시설의 경우 다른 베이스라이트가 될 수 있습니다. 
+오른쪽으로 이동하여 중간에 있는 **두번째 열**에서는 새로운 '잡'을 생성할 수 있으며,
 
-The **second column** moving to the right \(middle column\) is where you can create a new ‘job’: place the arrow/mouse on this column and right-click, which will give you the option to create a New Job \(or place the mouse on the Actions menu button and click it\). Again, the job is like a project where you may keep various scenes.
+다시 말하지만 '잡'은 다양한 씬을 담을 수 있는 프로젝트와 같습니다. 
+
+ moving to the right \(middle column\) is where you can create a new ‘job’: place the arrow/mouse on this column and right-click, which will give you the option to create a New Job \(or place the mouse on the Actions menu button and click it\). Again, the job is like a project where you may keep various scenes.
 
 The **third column**, on the far right-hand side, displays the Scenes that you have created. These will each hold collections of shots.
 
