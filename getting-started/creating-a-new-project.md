@@ -1,38 +1,32 @@
-# Creating a New Project 새 프로젝트 만들기
+# Creating a New Project
 
-### **Getting Started**  시작하기 
+### **Getting Started**  시작하기
 
 Before we begin, whilst the software is usable without them, if you wish to utilize the full capability of the Baselight system you will need a Three Button Mouse and a Full Keyboard with the Numeric Keypad. When these are needed it will be highlighted in the text but if you want to have full control it is recommended that you have both of these tools from this point.
 
-이 섹션에서는 아래의 BarScene(바 씬) 이미지를 사용합니다. 
-_generalised\_colourspaces\_v01/0\_media/0\_images/BarScene_
+이 섹션에서는 아래의 BarScene\(바 씬\) 이미지를 사용합니다. _generalised\_colourspaces\_v01/0\_media/0\_images/BarScene_
 
 ## Creating a New Project 새로운 프로젝트 생성하기
 
-
-
-이 장에서는 포맷, 프로젝트 설정, 타임라인 조합, 소스 가지오기에 대해 배우고 적절한 작업 색공간, 입력 색공간, 프리뷰 색공간을 선택해야 하는 방법과 이유을 배웁니다. 
-이 섹션의 목표는 카메라 테스트를 위한 씬(장면)을 설정하고 촬영감독(DOP)과 연출감독이 함께 카메라 테스트 세션을 실행할 수 있도록 하는 것입니다. 
+이 장에서는 포맷, 프로젝트 설정, 타임라인 조합, 소스 가지오기에 대해 배우고 적절한 작업 색공간, 입력 색공간, 프리뷰 색공간을 선택해야 하는 방법과 이유을 배웁니다. 이 섹션의 목표는 카메라 테스트를 위한 씬\(장면\)을 설정하고 촬영감독\(DOP\)과 연출감독이 함께 카메라 테스트 세션을 실행할 수 있도록 하는 것입니다.
 
 1. 베이스라이트 프로그램을 엽니다. 
 
-이렇게 하려면, 당신의 데스크탑 또는 Application > Baselight 폴더에서 **베이스라이트 아이콘**을 [](../.gitbook/assets/image%20%283%29.png)  더블 클릭하거나, !또는 리눅스 시스템의 경우, 터미널(Terminal)을 열고 **baselight** 라고 치고 엔터(enter)를 누르면 됩니다. 
+이렇게 하려면, 당신의 데스크탑 또는 Application &gt; Baselight 폴더에서 **베이스라이트 아이콘**을  더블 클릭하거나, !또는 리눅스 시스템의 경우, 터미널\(Terminal\)을 열고 **baselight** 라고 치고 엔터\(enter\)를 누르면 됩니다.
 
-베이스라이트 소프트웨어는 **잡 매니저**(Job Manager;작업관리자)와 같이 열립니다. 잡 매니저에서는  잡과 씬을 설정할 수 있습니다. (베이스라이트에서는 잡은 '씬'의 모음입니다. 씬의 샷의 모음이며,예를 들면, 하루치 촬영본 또는 광고나 드라마에서 컨펌본 입니다.  - 이는 대본과 꼭 관련있지는 않습니다.)
-UI 상단의 씬 메뉴에서 잡매니저을 열거나 키보드의 **Ctrl+J** 눌러서 엑세스 할 수 있습니다. 리눅스의 경우 **Cmd+J**.
+베이스라이트 소프트웨어는 **잡 매니저**\(Job Manager;작업관리자\)와 같이 열립니다. 잡 매니저에서는 잡과 씬을 설정할 수 있습니다. \(베이스라이트에서는 잡은 '씬'의 모음입니다. 씬의 샷의 모음이며,예를 들면, 하루치 촬영본 또는 광고나 드라마에서 컨펌본 입니다. - 이는 대본과 꼭 관련있지는 않습니다.\) UI 상단의 씬 메뉴에서 잡매니저을 열거나 키보드의 **Ctrl+J** 눌러서 엑세스 할 수 있습니다. 리눅스의 경우 **Cmd+J**.
 
-![Image 01. 새 작업 창 - 잡매니저가 이미 열린 상태로 베이스라이트가 시작됩니다.](../.gitbook/assets/image.png)
+![Image 01. &#xC0C8; &#xC791;&#xC5C5; &#xCC3D; - &#xC7A1;&#xB9E4;&#xB2C8;&#xC800;&#xAC00; &#xC774;&#xBBF8; &#xC5F4;&#xB9B0; &#xC0C1;&#xD0DC;&#xB85C; &#xBCA0;&#xC774;&#xC2A4;&#xB77C;&#xC774;&#xD2B8;&#xAC00; &#xC2DC;&#xC791;&#xB429;&#xB2C8;&#xB2E4;.](../.gitbook/assets/image.png)
 
 Image 01. 새 작업 창 - 잡매니저가 이미 열린 상태로 베이스라이트가 시작됩니다.
 
-잡매니저에서는 **3개의 열**을 볼 수 있습니다. 
+잡매니저에서는 **3개의 열**을 볼 수 있습니다.
 
-왼쪽의 **첫번째 열**은 호스트(Host)라고 불리웁니다. 이것은 작업 데이터베이스가 있는 위치를 나타내므로 작업중인 시스템 또는 대형 후반 제작시설의 경우 다른 베이스라이트가 될 수 있습니다. 
-오른쪽으로 이동하여 중간에 있는 **두번째 열**에서는 새로운 '잡'을 생성할 수 있으며,
+왼쪽의 **첫번째 열**은 호스트\(Host\)라고 불리웁니다. 이것은 작업 데이터베이스가 있는 위치를 나타내므로 작업중인 시스템 또는 대형 후반 제작시설의 경우 다른 베이스라이트가 될 수 있습니다. 오른쪽으로 이동하여 중간에 있는 **두번째 열**에서는 새로운 '잡'을 생성할 수 있으며,
 
-다시 말하지만 '잡'은 다양한 씬을 담을 수 있는 프로젝트와 같습니다. 
+다시 말하지만 '잡'은 다양한 씬을 담을 수 있는 프로젝트와 같습니다.
 
- moving to the right \(middle column\) is where you can create a new ‘job’: place the arrow/mouse on this column and right-click, which will give you the option to create a New Job \(or place the mouse on the Actions menu button and click it\). Again, the job is like a project where you may keep various scenes.
+moving to the right \(middle column\) is where you can create a new ‘job’: place the arrow/mouse on this column and right-click, which will give you the option to create a New Job \(or place the mouse on the Actions menu button and click it\). Again, the job is like a project where you may keep various scenes.
 
 The **third column**, on the far right-hand side, displays the Scenes that you have created. These will each hold collections of shots.
 

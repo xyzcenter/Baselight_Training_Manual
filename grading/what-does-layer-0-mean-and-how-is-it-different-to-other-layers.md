@@ -18,7 +18,7 @@ This will add a layer to the shot you have selected in your timeline.
 
 When you add a layer, controls will appear in the Parameters view – these are the controls for the currently selected grading operator. Take a moment to look at the user interface. You will see a column of grading options including Base Grade, Film Grade, Video Grade, Curve Grade and Hue Shift.
 
-![ Image 17. Grading tools available after you add Layer1. The large red arrow points to the Layer 1 indicator. The small arrow points to the grid of available grading tools. Note also that Film Grade is selected in the user interface.](../.gitbook/assets/image%20%2813%29.png)
+![ Image 17. Grading tools available after you add Layer1. The large red arrow points to the Layer 1 indicator. The small arrow points to the grid of available grading tools. Note also that Film Grade is selected in the user interface.](../.gitbook/assets/image%20%2827%29.png)
 
 Image 17. Grading tools available after you add Layer1. The large red arrow points to the Layer 1 indicator. The small arrow points to the grid of available grading tools. Note also that Film Grade is selected in the user interface.
 

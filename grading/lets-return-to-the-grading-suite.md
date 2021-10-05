@@ -26,6 +26,8 @@ If you are on Slate or Blackboard, press the reset buttons in the Film Grade. Th
 
 
 
+![](../.gitbook/assets/2021-10-06-00.20.31.png)
+
 Image 24. Reset control.
 
 
