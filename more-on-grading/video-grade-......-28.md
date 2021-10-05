@@ -33,7 +33,78 @@ If you make the contrast change in the RGB tab the image will also start to look
 
 Cmd+Z or Ctrl+Z until you return back that look.
 
+{% hint style="info" %}
+Baselight v5 Training Manual
 
+It’s useful to note that in Baselight every change you make is saved in a database, so
+
+.you can always return back to what you were doing a few moments earlier.
+{% endhint %}
+
+
+
+![](../.gitbook/assets/2021-10-06-01.48.09.png)
+
+Baselight v5 Training Manual
+
+Image 39. Video Grade. Outside tools are not available until a Matte, Mask or Key has been added.
+
+Are you wondering why Layer 1’s list of operators doesn’t allow you to access the column marked Outside? This is because this layer does not contain any mattes.
+
+Mattes are used in Baselight to define areas that will be treated separately – either with different grading and other image operators, or to composite areas of one image over another.
+
+Mattes in Layer 1 are something you should really avoid. Technically, of course, you can add them. However, most users set an overall grade first. This is what colourists mean when they talk about setting up a primary.
+
+In Baselight when users talk of primaries, they are generally referring to either Video Grade or Film Grade.
+
+There are essentially four different ways to create a matte: using a keyer, drawing one or more geometric shapes, applying paint using a matte brush, or using an external image.
+
+You will now add Layer 2, and inside you will add a shape.
+
+1 If you are using Baselight STUDENT, make sure Layer 1 is selected and press P. This will add a new layer below Layer 1. If you are using a Slate or Blackboard panel, press the layer 2 button to add the new layer.
+
+
+
+Baselight v5 Training Manual
+
+2 Don’t start grading yet as you first need to add a shape. Make sure Layer 2 is selected \(the strip for the selected layer is shown with a highlight in the timeline and the strip text turns yellow\) then press S. A shape strip will appear above Layer 2. If you are using Slate or Blackboard you can add a shape by pressing the Shape button in the stack manager area of keys.
+
+
+
+Baselight v5 Training Manual
+
+For more guidance on grading with a control panel, you can find the Slate and Blackboard User Guides on the FilmLight web site.
+
+
+
+![](../.gitbook/assets/2021-10-06-01.49.09.png)
+
+
+
+
+
+Baselight v5 Training Manual
+
+Image 40. Layer 2 in a selected state.
+
+It’s important to remember in Baselight that new layers append to the bottom of the timeline \(not the top as in some other systems\). So, the bottom of the stack is actually the end result of your grade.
+
+Select the shape layer and make sure that ‘New Shape’ is selected \(also note that shortcut Q will toggle new shape on and off\).
+
+
+
+![Image 40. Layer 2 in a selected state.](../.gitbook/assets/2021-10-06-01.49.33.png)
+
+
+
+
+
+Baselight v5 Training Manual
+
+1. 3  Click on the New Curve Mode drop-down menu and choose Ellipse.
+2. 4  Move your cursor to the image area, click and drag outwards.
+
+5 As you create your shape, you will have noticed that you no longer see the image area but rather the shape you have created.
 
   
 
