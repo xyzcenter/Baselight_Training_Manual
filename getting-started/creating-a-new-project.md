@@ -16,19 +16,22 @@ In this chapter you will learn about formats, creating projects, assembling a ti
 
 The aim of this section is for you to be able to set up a scene for a camera test, as well as run the camera test session with the DOP \(director of photography\) and the director.
 
-1 Open Baselight.
+1 Open Baselight.  베이스라이트 프로그램을 엽니다. 
 
-To do this either: double-click the ![](../.gitbook/assets/image%20%283%29.png) **Baselight icon** on your desktop or in the **Applications &gt; Baselight** folder, or, if on a Linux machine, open a terminal, type **baselight** and then press **Enter**.
+To do this either: double-click the ![](../.gitbook/assets/image%20%283%29.png) **Baselight icon** on your desktop or in the **Applications &gt; Baselight** folder, or, if on a Linux machine, open a terminal, type **baselight** and then press **Enter**. 이렇게 하려면; 데스크탑에서 베이스라이트 아이콘을 더블클릭하거나, 리눅스 터미널에서 baselight라고 치고 Enter 버튼을 누릅니다. 
 
 The software will open with the **Job Manager** already visible. The Job Manager is where you can set up a ‘job’ \(a collection of Scenes\) and a ‘scene’ \(in Baselight, a ‘scene’ is a collection of shots — for example, rushes from a day’s shoot or a conformed commercial or drama – it does not necessarily relate to a scene in a script\). You can also access the Job Manager from the Scene menu at the top of the UI or by pressing **Ctrl+J** on the keyboard \(**Cmd+J** on Linux\).
 
 ![Image 01. New Job Window - Baselight launches with the Job Manager already open.](../.gitbook/assets/image.png)
 
 Image 01. New Job Window - Baselight launches with the Job Manager already open.
+이미지01. 새로운 잡 윈도우 - 잡매니저가 열린채로 베이스라이트가 시작됩니다. 
 
 In the Job Manager, you see **three columns**.
+잡 매니저에서는 3개의 컬럼을 볼 수 있습니다. 
 
 The **first column** on the left-hand side is labeled ‘Host’. This indicates where the job database is located, so this could be the machine you are working on, or if you are working in a larger facility, it could also be another Baselight system or a server.
+첫번째 컬런은 왼쪽편의 호스트(host) 이며, 잡 데이터베이스가 위치한 것을 표시합니다. 
 
 The **second column** moving to the right \(middle column\) is where you can create a new ‘job’: place the arrow/mouse on this column and right-click, which will give you the option to create a New Job \(or place the mouse on the Actions menu button and click it\). Again, the job is like a project where you may keep various scenes.
 
