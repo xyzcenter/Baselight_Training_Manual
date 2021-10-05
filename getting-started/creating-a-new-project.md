@@ -4,13 +4,13 @@
 
 Before we begin, whilst the software is usable without them, if you wish to utilize the full capability of the Baselight system you will need a Three Button Mouse and a Full Keyboard with the Numeric Keypad. When these are needed it will be highlighted in the text but if you want to have full control it is recommended that you have both of these tools from this point.
 
-This section uses the Bar Scene images provided in:
+This section uses the Bar Scene images provided in: 이 섹션은 Bar 씬 이미지를 사용했습니다.
 
 _generalised\_colourspaces\_v01/0\_media/0\_images/BarScene_
 
 ## Creating a New Project
 
-Baselight v5 Training Manual
+
 
 In this chapter you will learn about formats, creating projects, assembling a timeline, importing footage and learn how and why you need to choose appropriate Working Colour Spaces, Input Colour Spaces and Viewing Colour Spaces.
 
