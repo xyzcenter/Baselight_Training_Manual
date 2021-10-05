@@ -27,14 +27,14 @@
 
 * [Setting Up a Basic Primary Grade](more-on-grading/setting-up-a-basic-primary-grade.md)
 * [Video Grade](more-on-grading/video-grade.md)
-* [Viewing Matte Channels and Images ...... 31](more-on-grading/viewing-matte-channels-and-images-......-31.md)
+* [Viewing Matte Channels and Images](more-on-grading/viewing-matte-channels-and-images.md)
 
-## The Different Baselight Grading Tools ..... 34 <a id="the-different-baselight-grading-tools-.....-34-1"></a>
+## The Different Baselight Grading Tools
 
-* [Setting Up ..... 34](the-different-baselight-grading-tools-.....-34-1/setting-up-.....-34.md)
-* [Why does Baselight have so many different grading tools? ...... 35](the-different-baselight-grading-tools-.....-34-1/why-does-baselight-have-so-many-different-grading-tools-......-35.md)
-* [Importing Shots from FLUX Manage and Copying Shots within a Timeline .... 39](the-different-baselight-grading-tools-.....-34-1/importing-shots-from-flux-manage-and-copying-shots-within-a-timeline-....-39.md)
-* [Discovering the Base Grade ...... 43](the-different-baselight-grading-tools-.....-34-1/discovering-the-base-grade-......-43.md)
+* [Setting Up](the-different-baselight-grading-tools/setting-up.md)
+* [Why does Baselight have so many different grading tools? ...... 35](the-different-baselight-grading-tools/why-does-baselight-have-so-many-different-grading-tools-......-35.md)
+* [Importing Shots from FLUX Manage and Copying Shots within a Timeline .... 39](the-different-baselight-grading-tools/importing-shots-from-flux-manage-and-copying-shots-within-a-timeline-....-39.md)
+* [Discovering the Base Grade ...... 43](the-different-baselight-grading-tools/discovering-the-base-grade-......-43.md)
 
 ## A Deeper Explanation of Base Grade
 

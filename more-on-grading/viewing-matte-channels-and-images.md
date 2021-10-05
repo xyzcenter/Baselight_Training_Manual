@@ -1,4 +1,4 @@
-# Viewing Matte Channels and Images ...... 31
+# Viewing Matte Channels and Images
 
 If you look above the operator columns, you will see that there are two Mona Lisa icons , one in full colour and the other greyscale. When the full colour Mona Lisa is selected you are looking at an image as opposed to a matte. You haven’t noticed this yet because this is actually the default mode in Baselight. The greyscale Mona Lisa lets you view mattes.
 
