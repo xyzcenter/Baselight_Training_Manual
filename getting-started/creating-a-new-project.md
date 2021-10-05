@@ -2,7 +2,7 @@
 
 ### **Getting Started**  시작하기 
 
-시작하기전에 소프트웨어가 없어도 Before we begin, whilst the software is usable without them, if you wish to utilize the full capability of the Baselight system you will need a Three Button Mouse and a Full Keyboard with the Numeric Keypad. When these are needed it will be highlighted in the text but if you want to have full control it is recommended that you have both of these tools from this point.
+Before we begin, whilst the software is usable without them, if you wish to utilize the full capability of the Baselight system you will need a Three Button Mouse and a Full Keyboard with the Numeric Keypad. When these are needed it will be highlighted in the text but if you want to have full control it is recommended that you have both of these tools from this point.
 
 이 섹션에서는 아래의 BarScene(바 씬) 이미지를 사용합니다. 
 _generalised\_colourspaces\_v01/0\_media/0\_images/BarScene_
