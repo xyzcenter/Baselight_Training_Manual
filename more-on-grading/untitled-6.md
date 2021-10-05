@@ -1,6 +1,6 @@
 # Setting Up a Basic Primary Grade ..... 24
 
-Baselight v5 Training Manual
+
 
 This section uses the Bar Scene images provided in:
 
@@ -22,13 +22,13 @@ When you navigate to the material you want to use, you can see the frame rate di
 
 
 
-Baselight v5 Training Manual
+
 
 When you have created your scene, make sure that you are viewing your images in the correct colour space. The Viewing Colour Space you set must always match your display device. Look back at the previous section on this if you can’t remember where you set this option.
 
 
 
-Baselight v5 Training Manual
+
 
 So, for example, if I needed to create a UHDTV job and I had a capable monitor, the monitor may need to be set to Rec2020. In Baselight, I would also have to choose a Rec 2020 Viewing Colour Space to match the monitor.
 
@@ -42,7 +42,7 @@ If I was working on a feature film in a grading theatre and the projector was se
 
 
 
-Baselight v5 Training Manual
+
 
 To save the Viewing Colour Space, select the Actions button \(located in the Cursors Section of the interface\) and choose either ‘Use these cursor settings when this scene is opened’, or ‘Use these cursor settings when scenes in this job are opened’.
 
@@ -58,7 +58,7 @@ ALWAYS DOUBLE CHECK THAT YOUR VIEWING COLOUR SPACE MATCHES YOUR DISPLAY DEVICE.
 
 
 
-Baselight v5 Training Manual
+
 
 In the following example, as mentioned previously, we will use the bar scene images, but the instructions should apply to any sequence. Ideally you are feeling confident enough to experiment and will use your own material.
 
@@ -68,7 +68,7 @@ Your scene should be open. Remember even if your scene is empty we know if it is
 
 ![Image 35. A scene that has been created but is still empty. The name and resolution are indicated by the long red arrow. The short arrow points to the Viewing Colour Space, which has not yet been set correctly.](../.gitbook/assets/2021-10-06-00.30.52.png)
 
-Baselight v5 Training Manual
+
 
 1. 2  Go to the Views menu and open the FLUX manage.
 2. 3  Navigate to the shot you wish to use, or if you want to follow these set of instructions exactly navigate
@@ -79,7 +79,7 @@ Baselight v5 Training Manual
 
 
 
-Baselight v5 Training Manual
+
 
 Now let’s apply a primary grading layer \(Layer 1\).  
  4 Make sure the clip you want to grade is selected.
@@ -90,7 +90,7 @@ Now let’s apply a primary grading layer \(Layer 1\).
 
 
 
-Baselight v5 Training Manual
+
 
 1. 5  If you are using Baselight STUDENT, press P on the keyboard. If you are using Blackboard, press Layer1.
 2. 6  Select the Video Grade.
