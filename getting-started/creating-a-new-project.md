@@ -8,13 +8,14 @@ This section uses the Bar Scene images provided in: 이 섹션은 Bar 씬 이미
 
 _generalised\_colourspaces\_v01/0\_media/0\_images/BarScene_
 
-## Creating a New Project
+## Creating a New Project 새로운 프로젝트 생성하기
 
 
 
 In this chapter you will learn about formats, creating projects, assembling a timeline, importing footage and learn how and why you need to choose appropriate Working Colour Spaces, Input Colour Spaces and Viewing Colour Spaces.
+본 챕터에서는 포맷, 프로젝트 설정하기, 타임라인 어샘블링, 소스를 불러오기와 작업색공간(워킹 컬러스페이스), 입력색공간(임포트 컬러스페이스), 프리뷰 색공간(뷰잉 컬러스페이스)을 어떻게 왜 선택해야 하는지 대해서 배우게 될 것이다. 
 
-The aim of this section is for you to be able to set up a scene for a camera test, as well as run the camera test session with the DOP \(director of photography\) and the director.
+The aim of this section is for you to be able to set up a scene for a camera test, as well as run the camera test session with the DOP \(director of photography\) and the director. 이 섹션의 목적은 촬영감독(DOP)와 연출감독과 같이 카메라 테스트와 같은 씬을 설정할 수 있게 합니다. 
 
 1 Open Baselight.  베이스라이트 프로그램을 엽니다. 
 
