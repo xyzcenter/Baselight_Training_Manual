@@ -1,25 +1,22 @@
-# Creating a New Project
+# Creating a New Project 새 프로젝트 만들기
 
-### **Getting Started**
+### **Getting Started**  시작하기 
 
-Before we begin, whilst the software is usable without them, if you wish to utilize the full capability of the Baselight system you will need a Three Button Mouse and a Full Keyboard with the Numeric Keypad. When these are needed it will be highlighted in the text but if you want to have full control it is recommended that you have both of these tools from this point.
+시작하기전에 소프트웨어가 없어도 Before we begin, whilst the software is usable without them, if you wish to utilize the full capability of the Baselight system you will need a Three Button Mouse and a Full Keyboard with the Numeric Keypad. When these are needed it will be highlighted in the text but if you want to have full control it is recommended that you have both of these tools from this point.
 
-This section uses the Bar Scene images provided in: 이 섹션은 Bar 씬 이미지를 사용했습니다.
-
+이 섹션에서는 아래의 BarScene(바 씬) 이미지를 사용합니다. 
 _generalised\_colourspaces\_v01/0\_media/0\_images/BarScene_
 
 ## Creating a New Project 새로운 프로젝트 생성하기
 
 
 
-In this chapter you will learn about formats, creating projects, assembling a timeline, importing footage and learn how and why you need to choose appropriate Working Colour Spaces, Input Colour Spaces and Viewing Colour Spaces.
-본 챕터에서는 포맷, 프로젝트 설정하기, 타임라인 어샘블링, 소스를 불러오기와 작업색공간(워킹 컬러스페이스), 입력색공간(임포트 컬러스페이스), 프리뷰 색공간(뷰잉 컬러스페이스)을 어떻게 왜 선택해야 하는지 대해서 배우게 될 것이다. 
+이 장에서는 포맷, 프로젝트 설정, 타임라인 조합, 소스 가지오기에 대해 배우고 적절한 작업 색공간, 입력 색공간, 프리뷰 색공간을 선택해야 하는 방법과 이유을 배웁니다. 
+이 섹션의 목표는 카메라 테스트를 위한 씬(장면)을 설정하고 촬영감독(DOP)과 연출감독이 함께 카메라 테스트 세션을 실행할 수 있도록 하는 것입니다. 
 
-The aim of this section is for you to be able to set up a scene for a camera test, as well as run the camera test session with the DOP \(director of photography\) and the director. 이 섹션의 목적은 촬영감독(DOP)와 연출감독과 같이 카메라 테스트와 같은 씬을 설정할 수 있게 합니다. 
+1. 베이스라이트 프로그램을 엽니다. 
 
-1 Open Baselight.  베이스라이트 프로그램을 엽니다. 
-
-To do this either: double-click the ![](../.gitbook/assets/image%20%283%29.png) **Baselight icon** on your desktop or in the **Applications &gt; Baselight** folder, or, if on a Linux machine, open a terminal, type **baselight** and then press **Enter**. 이렇게 하려면; 데스크탑에서 베이스라이트 아이콘을 더블클릭하거나, 리눅스 터미널에서 baselight라고 치고 Enter 버튼을 누릅니다. 
+이렇게 하려면, 당신의 데스크탑 또는 Application > Baselight 폴더에서 **베이스라이트 아이콘**을 더블 클릭하거나, ![](../.gitbook/assets/image%20%283%29.png) 또는 리눅스 시스템의 경우, 터미널(Terminal)을 열고 **baselight** 라고 치고 엔터(enter)를 누르면 됩니다. 
 
 The software will open with the **Job Manager** already visible. The Job Manager is where you can set up a ‘job’ \(a collection of Scenes\) and a ‘scene’ \(in Baselight, a ‘scene’ is a collection of shots — for example, rushes from a day’s shoot or a conformed commercial or drama – it does not necessarily relate to a scene in a script\). You can also access the Job Manager from the Scene menu at the top of the UI or by pressing **Ctrl+J** on the keyboard \(**Cmd+J** on Linux\).
 
