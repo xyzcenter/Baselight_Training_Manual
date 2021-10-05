@@ -20,10 +20,8 @@
 * [Why choose Film Grade?](grading/why-choose-film-grade.md)
 * [Let’s Return to the Grading Suite](grading/lets-return-to-the-grading-suite.md)
 * [Configuring Film Grade to Work in Printer Lights](grading/configuring-film-grade-to-work-in-printer-lights.md)
-* [Accessing the Printer Light Functionality](grading/accessing-the-printer-light-functionality/README.md)
-  * [Slate and Blackboard ..... 21](grading/accessing-the-printer-light-functionality/untitled.md)
-  * [Keyboard ...... 21](grading/accessing-the-printer-light-functionality/keyboard-......-21.md)
-* [Gestural Editing ..... 21](grading/gestural-editing-.....-21.md)
+* [Accessing the Printer Light Functionality](grading/accessing-the-printer-light-functionality.md)
+* [Gestural Editing](grading/gestural-editing-.....-21.md)
 
 ## More on Grading
 

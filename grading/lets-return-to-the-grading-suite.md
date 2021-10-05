@@ -38,5 +38,9 @@ Configuring the Film Grade to work with printer lights is simple. How you access
 
 If you are working in Baselight STUDENT and you wish to experiment with exposure bumps/printer lights, please attach an external keyboard so that you have a full numeric keypad available to you.
 
+![](../.gitbook/assets/2021-10-06-00.21.26.png)
+
+
+
 Image 25. A student working on a MacBook Pro with an external keyboard attached.
 
