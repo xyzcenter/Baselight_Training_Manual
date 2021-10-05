@@ -1,4 +1,4 @@
-# Why does Baselight have so many different grading tools? ...... 35
+# Why does Baselight have so many different grading tools?
 
 Baselight v5 Training Manual
 

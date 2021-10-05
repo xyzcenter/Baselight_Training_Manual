@@ -32,7 +32,7 @@
 ## The Different Baselight Grading Tools
 
 * [Setting Up](the-different-baselight-grading-tools/setting-up.md)
-* [Why does Baselight have so many different grading tools? ...... 35](the-different-baselight-grading-tools/why-does-baselight-have-so-many-different-grading-tools-......-35.md)
+* [Why does Baselight have so many different grading tools?](the-different-baselight-grading-tools/why-does-baselight-have-so-many-different-grading-tools.md)
 * [Importing Shots from FLUX Manage and Copying Shots within a Timeline .... 39](the-different-baselight-grading-tools/importing-shots-from-flux-manage-and-copying-shots-within-a-timeline-....-39.md)
 * [Discovering the Base Grade ...... 43](the-different-baselight-grading-tools/discovering-the-base-grade-......-43.md)
 
