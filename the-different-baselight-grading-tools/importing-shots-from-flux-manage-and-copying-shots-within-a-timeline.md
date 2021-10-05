@@ -1,4 +1,4 @@
-# Importing Shots from FLUX Manage and Copying Shots within a Timeline .... 39
+# Importing Shots from FLUX Manage and Copying Shots within a Timeline
 
 Baselight v5 Training Manual
 
