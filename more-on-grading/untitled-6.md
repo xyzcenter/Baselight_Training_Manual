@@ -50,7 +50,7 @@ It’s probably advisable to always save your Colour Space. If you were acting a
 
 In fact, always remember to check that the Viewing Colour Space is correct. Let’s say that one more time:
 
-ALWAYS DOUBLE CHECK THAT YOUR VIEWING COLOUR SPACE MATCHES YOUR DISPLAY DEVICE.
+**ALWAYS DOUBLE CHECK THAT YOUR VIEWING COLOUR SPACE MATCHES YOUR DISPLAY DEVICE.**
 
 
 
@@ -70,10 +70,8 @@ Your scene should be open. Remember even if your scene is empty we know if it is
 
 
 
-1. 2  Go to the Views menu and open the FLUX manage.
-2. 3  Navigate to the shot you wish to use, or if you want to follow these set of instructions exactly navigate
-
-   to and insert the clips from:
+2.  Go to the Views menu and open the FLUX manage.
+3.  Navigate to the shot you wish to use, or if you want to follow these set of instructions exactly navigate to and insert the clips from:
 
 /images1/generalised\_colourspaces\_v01/0\_media/0\_images/BarScene/Epic
 
@@ -82,22 +80,10 @@ Your scene should be open. Remember even if your scene is empty we know if it is
 
 
 Now let’s apply a primary grading layer \(Layer 1\).  
- 4 Make sure the clip you want to grade is selected.
+4. Make sure the clip you want to grade is selected.
 
 ![Image 36. A scene before layers are added. The red arrow points to the first clip, which is selected in the timeline. When a clip is selected Baselight knows where to add grading layers.](../.gitbook/assets/2021-10-06-00.31.37.png)
 
-
-
-
-
-
-
-1. 5  If you are using Baselight STUDENT, press P on the keyboard. If you are using Blackboard, press Layer1.
-2. 6  Select the Video Grade.
-
-
-
-
-
-
+5.  If you are using Baselight STUDENT, press P on the keyboard. If you are using Blackboard, press Layer1.
+6.  Select the Video Grade.
 
