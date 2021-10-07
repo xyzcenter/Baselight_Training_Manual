@@ -11,8 +11,6 @@ As you are now using Baselight V5, you will import clips into the scene via FLUX
 
 
 {% hint style="info" %}
-Baselight v5 Training Manual
-
 Please note that FLUX Manage has replaced the Sequence Browser that was available in 4.4m1. You can also make use of keyboard shortcuts to bring up FLUX Manage. On a Mac, press Ctrl+F. On a Linux system, press Win+F.
 
 Also, if you don't like the layout of FLUX Manage, you can customise the panes. You will find splitter bars that you can drag around if you move your mouse over the interface.
