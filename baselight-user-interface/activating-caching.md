@@ -2,7 +2,7 @@
 
 
 
-Baselight v5 Training Manual
+
 
 If working on a Mac you may need to specify a directory to be used for the image cache. This can be done at the top of the ‘System’ page in the preference settings. A restart will be necessary to save any changes made.
 
@@ -23,7 +23,7 @@ Image 74. Scene Settings Window. Caching is set to full.
 
    When you play the timeline, you will see that Baselight displays the three-bar icon we’ve
 
-Baselight v5 Training Manual
+
 
 discussed at the top of the screen. Again, the bars depict whether images are being read from disk \(top\), processed \(middle\), or written to disk \(bottom\). The icon to the left of the playback status bars indicates the current caching mode – an arrow pointing into a red disk indicates that the cache is currently being written, an arrow pointing out of a green disk indicates that the cache is being read.
 
@@ -43,7 +43,7 @@ If you are still having issues activating caching please check that you have a c
 
 
 
-Baselight v5 Training Manual
+
 
 Image 77. Baselight with the Preferences window open. The System tab is selected and here we can check caching settings. Windows can be closed in Baselight by clicking the small x.
 

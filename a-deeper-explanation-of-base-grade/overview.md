@@ -2,7 +2,7 @@
 
 
 
-Baselight v5 Training Manual
+
 
 This Section builds on the discussion of Base Grade from the previous Chapter:
 
@@ -18,7 +18,7 @@ This Section builds on the discussion of Base Grade from the previous Chapter:
 
 
 
-Baselight v5 Training Manual
+
 
 Image 60. Dim/Bal/Light tab.
 
@@ -26,7 +26,7 @@ Image 60. Dim/Bal/Light tab.
 
 
 
-Baselight v5 Training Manual
+
 
 The Balance control is repeated twice in the UI. If you drag the colour wheel towards red you see that the same value is shown on both tabs. The idea is that you have access to the Balance control irrespective of the tab you are using. However, if you don’t feel you need the extra access you can of course choose another grading option.
 
@@ -54,7 +54,7 @@ There are also some other very useful functions that are not available in the ot
 
 
 
-Baselight v5 Training Manual
+
 
 Image 63. One of the Balance menus changed to Flare.
 
@@ -68,7 +68,7 @@ Image 63. One of the Balance menus changed to Flare.
 
 
 
-Baselight v5 Training Manual
+
 
 Image 64. One of the Balance menus changed to Flare.
 
@@ -97,7 +97,7 @@ The behaviour of the flare is also to pin the darker areas of an image to a cert
 
 
 
-Baselight v5 Training Manual
+
 
 Image 65. Baselight interface with the RGB Parade open.
 

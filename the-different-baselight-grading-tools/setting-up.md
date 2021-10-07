@@ -2,7 +2,7 @@
 
 
 
-Baselight v5 Training Manual
+
 
 The Different Baselight Grading Tools
 
@@ -36,7 +36,7 @@ http://www.arri.com/camera/alexa/learn/alexa\_sample\_footage/
 
 
 
-Baselight v5 Training Manual
+
 
 This first part of this tutorial is based around the ProRes sample clips in the folder called ‘01\_HD and 2k/24p’.
 
@@ -46,7 +46,7 @@ This first part of this tutorial is based around the ProRes sample clips in the 
 
 
 
-Baselight v5 Training Manual
+
 
 Also, if you don’t wish to download the files, feel free to experiment using your own material. If you do use your own images, you will need well-exposed pictures with varied tonal regions.
 

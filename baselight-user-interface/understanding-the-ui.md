@@ -92,17 +92,17 @@ You will now start to explore some of Baselight’s menus.
 
 
 
-Baselight v5 Training Manual
+
 
 The first menu at the top of the user interface is the Baselight menu. This menu contains a number of useful sub menus, one of which is ‘About Baselight’ where you can view which version of the software is installed.
 
-Baselight v5 Training Manual
+
 
 If you ever have to contact Baselight Support for assistance, the first question they will ask you is what version are you using, so don’t forget where to look.
 
 
 
-Baselight v5 Training Manual
+
 
 Other useful options are the Preferences and Formats menus. Preferences allow you to set things such as the size of the font text on the Baselight interface or whether you want to be able to drag and drop clips to different positions in the timeline.
 
@@ -114,19 +114,19 @@ The menus that follow the Baselight menu provide access to the sub-menus for all
 
 ![](../.gitbook/assets/2021-10-07-23.13.14.png)
 
-Baselight v5 Training Manual
+
 
 Image 71. Message Log window. The large arrow points to the message log indicator; the smaller arrow points to the playback/caching indicators.
 
 
 
-Baselight v5 Training Manual
+
 
 Now look towards the upper right of the interface. You can see a small triangle symbol with an exclamation mark. Click the triangle and it will open the Message Log. Here Baselight lists errors or other useful information that relate to the timeline.
 
 
 
-Baselight v5 Training Manual
+
 
 ![](../.gitbook/assets/2021-10-07-23.14.30.png)
 

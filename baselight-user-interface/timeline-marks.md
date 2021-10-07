@@ -1,6 +1,6 @@
 # Timeline Marks
 
-Baselight v5 Training Manual
+
 
 OK, let’s return to the scenario of the camera test \(and hopefully you have remembered to deactivate caching as it is not required at this point\). You have already matched the brightness of the shots roughly.
 
@@ -24,7 +24,7 @@ You can drag though the timeline by selecting the timeline cursor and dragging w
 
 
 
-Baselight v5 Training Manual
+
 
 Image 80. The arrow points towards the shuttle controls on Blackboard 1.
 
@@ -44,7 +44,7 @@ Image 80. The arrow points towards the shuttle controls on Blackboard 1.
 
    On Baselight STUDENT, press the Cmd key and drag left/right with the Middle Mouse Button.
 
-5. 6. 7. Baselight v5 Training Manual
+5. 6. 7. 
 
    If using a Blackboard or a Slate, press Ctrl and drag left/right with the Middle Mouse Button. If using a tablet, hold down the lower side-switch and drag left/right with the pen.
 

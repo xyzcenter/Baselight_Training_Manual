@@ -1,6 +1,6 @@
 # What do we do with the Burnin?
 
-Baselight v5 Training Manual
+
 
 Burnins are rendered onto the image.
 
@@ -31,7 +31,7 @@ Image 104. Render Panel with Colour Space, Mask and Burnin selected.
 
 
 
-Baselight v5 Training Manual
+
 
 8 Remember that the editorial team also wants the files with the original name, so please select the Input File name checkbox.
 
@@ -50,7 +50,7 @@ The Queue Monitor will open and if you look at the progress bar you will see the
 
 
 
-Baselight v5 Training Manual
+
 
 Image 107. Queue Monitor.
 

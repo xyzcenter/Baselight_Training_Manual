@@ -1,6 +1,6 @@
 # Setting up the Render View ...... 64
 
-Baselight v5 Training Manual
+
 
 You can now start to set up your render options. Your task is to export just the marked frames from the timeline. Remember when we talk about “rendering”, we really mean just exporting files from Baselight.
 
@@ -18,13 +18,13 @@ If you have followed the instructions from the previous sections, just two frame
 
 
 
-Baselight v5 Training Manual
+
 
 Image 89. Frames To Render field.
 
 
 
-Baselight v5 Training Manual
+
 
 Now you can choose your file type. If you are using Baselight STUDENT, the only file type you can choose for stills is JPEG. If you are using a full version of Baselight, you will be able to choose other formats such as TIFF and DPX.
 
@@ -47,7 +47,7 @@ In Baselight, if you have set your scene up correctly, you can render to any col
 
 
 
-Baselight v5 Training Manual
+
 
 Image 91. Some of the colour spaces available to you when you click on the Render Colour Space option.
 
@@ -63,7 +63,7 @@ Image 92. The output directory for your render.
 
 
 
-Baselight v5 Training Manual
+
 
 The final step in this exercise is to understand where you are placing your images on disk. We have included another section in the Render panel screengrab above. You can see the Directory field - this is where your files will appear after you have finished your render. You also see the Container field.
 
@@ -97,7 +97,7 @@ OK, now it’s time to Render.
 
 
 
-Baselight v5 Training Manual
+
 
 The Queue Monitor should open and hopefully you will quickly see the magic word Done. The Queue Monitor also logs previous render information, so if you are on a Baselight system that is used by other people, the Queue Monitor is likely to hold information about previous renders.
 

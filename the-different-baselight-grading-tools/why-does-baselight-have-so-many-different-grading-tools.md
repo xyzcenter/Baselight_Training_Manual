@@ -1,6 +1,6 @@
 # Why does Baselight have so many different grading tools?
 
-Baselight v5 Training Manual
+
 
 It’s probably safe to say that the most used grading operators in Baselight are Film Grade and Video Grade. However, in version 5, we also offer Base Grade.
 
@@ -14,13 +14,13 @@ The first DI project to use Film Grade was Chicken Run way back in 2000.
 
 Film Grade is fairly customizable and one of the main differences between Film Grade and Video Grade is that Film Grade can work in printer light units. We touched on how to set up your system to work with printer lights in earlier chapters. One method of doing so is via the Edit Menu which allows you to enable printer light bumps on the numeric keypad.
 
-Baselight v5 Training Manual
+
 
 After Film Grade came Video Grade.
 
 ![Image 46. Video Grade interface. Notice there are two modes in Video Grade: RGB and YCbCR.](../.gitbook/assets/2021-10-06-01.56.06.png)
 
-Baselight v5 Training Manual
+
 
 Video Grade has lift, gamma, and gain controls, along with saturation. In the past, the Video Grade was generally used for video or telecine style grading.
 
@@ -36,7 +36,7 @@ Whichever mode you choose to use is of course a simple question of taste. 1 Open
 
 
 
-Baselight v5 Training Manual
+
 
 2 The scenes that you are creating roughly have a similar tone curve. Please create three scenes each with the following working colour space
 
@@ -52,11 +52,11 @@ Baselight v5 Training Manual
 
 
 
-Baselight v5 Training Manual
+
 
 \(By the way, when we talk about tone curves, we are referring an image’s distribution of shadows, midtones and highlights.\)
 
-Baselight v5 Training Manual
+
 
 As you create each scene, you will see the name of the open scene in the top right of the user interface. If you click on the name of the scene in the top right of the UI, you can jump between scenes.
 
@@ -69,12 +69,12 @@ Active cursors are tied to the number keys on your keyboard. As you have 3 curso
 
 
 {% hint style="info" %}
-Baselight v5 Training Manual
+
 
 Also, please note that if you have kept the Job Manager open as you create each scene, a lock will appear next to the name of the scene. The lock indicates that the scene is not writable by any other user because you have it open.
 {% endhint %}
 
-Baselight v5 Training Manual
+
 
 Before you proceed make sure that the Job Manager is closed by clicking on the ‘x’ at the top left of the dialog.
 

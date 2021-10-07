@@ -1,6 +1,6 @@
 # Dailies and Creating a Deliverable
 
-Baselight v5 Training Manual
+
 
 This section uses the images provided in:
 
@@ -32,7 +32,7 @@ Another important discussion between editorial and the dailies department is whe
 
 
 
-Baselight v5 Training Manual
+
 
 In today’s example, you will learn to render your images as movie files at a resolution of 1920x1080. Productions will often request this combo for use with editing systems. Your render will include a Mask \(blanking\) and a Burnin.
 

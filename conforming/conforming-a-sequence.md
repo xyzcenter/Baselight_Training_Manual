@@ -1,6 +1,6 @@
 # Conforming a Sequence
 
-Baselight v5 Training Manual
+
 
 This section uses images and an EDL provided in:
 
@@ -33,7 +33,7 @@ You will now open the EDL Import window from the Views menu. 5 Go to the Views m
 
 
 
-Baselight v5 Training Manual
+
 
 Image 109. Open Views menu. EDL Import is selected.
 
@@ -50,7 +50,7 @@ Baselight will extract the proper frame rate from the EDL. You will note that yo
 
 
 
-Baselight v5 Training Manual
+
 
 Also, once you have selected an EDL, Baselight will display the raw EDL in a tab at the bottom of the EDL Import window. It is always useful to check the raw EDL as it will tell you what ‘events’ will be required for Baselight to rebuild the edit.
 
@@ -68,7 +68,7 @@ The Try All Options method has pros and cons. Often the editing may take place e
 
 
 
-Baselight v5 Training Manual
+
 
 However, Baselight really will try all options and so it will present you with many possible versions of the conform. Each version is presented to you in a different tab. You could quite easily end up with 20 versions of the conform. It’s up to you to choose the one that the editor intended.
 
@@ -90,7 +90,7 @@ Even with just a small amount of information such as timecode, we can ensure the
 
 
 
-Baselight v5 Training Manual
+
 
 be. While you may not notice much of a change in this small tutorial example, you would definitely notice if you were conforming from a couple of terabytes worth of material.
 
@@ -120,7 +120,7 @@ The next option in the EDL Import window is Overwrite Tape Name. We have seen ho
 
 
 
-Baselight v5 Training Manual
+
 
 Image 115. The EDL Import window showing the first set of conform options selected. We can see conform variations will be limited to those involving timecode.
 
@@ -138,7 +138,7 @@ Once you have selected Done, the EDL Import window will close and you are ready 
 
 
 
-Baselight v5 Training Manual
+
 
 If you wish to experiment further, try adding a single layer to each event/shot by using the P shortcut and practice applying a primary grade using Video Grade or the tool of your choice.
 

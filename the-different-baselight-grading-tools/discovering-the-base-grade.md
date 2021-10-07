@@ -1,6 +1,6 @@
 # Discovering the Base Grade
 
-Baselight v5 Training Manual
+
 
 In the next part of this chapter we will look more closely at some of the features of Base Grade. You can complete this section even if you do not have a control surface attached to your machine.
 
@@ -16,7 +16,7 @@ If you have ProRes files with metadata intact, Baselight will automatically read
 
 
 
-Baselight v5 Training Manual
+
 
 1. Return to the Aces scene. 2. Move to the shot that has the Base Grade applied and reset the changes you have made. You can do this by pressing Ctrl+Fn+Backspace on a Mac or Ctrl+Backspace on a Linux machine. 
 
@@ -24,7 +24,7 @@ Baselight v5 Training Manual
 
 ![Image 56. Base Grade UI. Balance affects the brightness and white point of an image.](../.gitbook/assets/2021-10-06-02.04.08.png)
 
-Baselight v5 Training Manual
+
 
 Now your Scene is set up, we must set a third Colour Space. This is the Viewing Colour Space that we also sometimes call the Cursor Colour Space. We set a Viewing Colour Space so that your images are viewed correctly on your display. When we set the Viewing Colour Space we match it to the Colour Space of our viewing device. On monitors this is often Rec.709 or Rec.1886. And if we are using Baselight STUDENT on a Mac laptop, then this would be sRGB.
 
@@ -40,13 +40,13 @@ Remember we can liken Balance to the Exposure control in Film Grade. It lets you
 
 In the Balance control reduce the Brightness of the image. If you do not have a grading surface you can use the gestural controls that are supported in Baselight. To use it, simply click in the edit control and drag clockwise or anti-clockwise in a circular manner. Reduce the lights setting until you see more details in the wall area.
 
-Baselight v5 Training Manual
+
 
 You will see the changes that you make reflected on the luma graph. The images that we are using for this section are quite neutral so we don't need to affect the colour balance.
 
 ![Image 57. Base Grade with the Balance Control decreased.](../.gitbook/assets/2021-10-06-02.04.50.png)
 
-Baselight v5 Training Manual
+
 
 Now let’s look at the Lights and Bright Settings. As the name suggests these controls allow you to alter the bright areas of an image.
 
@@ -60,7 +60,7 @@ By default, the Light control affects more of the image than the Bright control.
 
 
 
-Baselight v5 Training Manual
+
 
 Now find the Bright Parameter. Increase the setting so that you brighten the window. If you tried to re- peat the same action in Film Grade, things would be a little more complicated as Film Grade does not pro- vide you with the extra zones that you have available in Base Grade.
 

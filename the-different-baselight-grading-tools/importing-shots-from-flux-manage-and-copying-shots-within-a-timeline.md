@@ -1,6 +1,6 @@
 # Importing Shots from FLUX Manage and Copying Shots within a Timeline
 
-Baselight v5 Training Manual
+
 
 As you are now using Baselight V5, you will import clips into the scene via FLUX Manage. When you insert a clip, its head is aligned to the frame on which cursor rests in the timeline.
 
@@ -22,7 +22,7 @@ Also, if you don't like the layout of FLUX Manage, you can customise the panes. 
 
 
 
-Baselight v5 Training Manual
+
 
 In FLUX Manage, navigate to the designated image directory. Click once to select the required clip and press Insert. \(Remember in FLUX Manage, if you want to view what is inside a folder you will have to press Descend.\)
 
@@ -36,7 +36,7 @@ In FLUX Manage, navigate to the designated image directory. Click once to select
 
 
 
-Baselight v5 Training Manual
+
 
 Also, please ensure that you are importing the clips using the correct Colour Space. In this section we are using Alexa ProRes images from the Amira camera. As there is metadata in the files, Baselight will correctly identify them on import.
 
@@ -50,7 +50,7 @@ Also, please ensure that you are importing the clips using the correct Colour Sp
 
 
 
-Baselight v5 Training Manual
+
 
 You can import the same clip twice. If you choose this method, make sure that after the first clip is inserted that you move the cursor to the end of the first clip before you insert the second clip \(Keys Z and X will move you backwards or forwards between clips.\)
 
@@ -84,7 +84,7 @@ You will then compare the feel of the Base Grade which should feel the same in e
 
 
 
-Baselight v5 Training Manual
+
 
 As you grade in the different scenes, you will feel a slight difference in behaviour. You will of course only feel a difference if you are using a grading device with track balls.
 

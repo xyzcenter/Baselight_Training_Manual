@@ -1,6 +1,6 @@
 # What is the Most Important Part of Making the Dailies Process Pain-free?
 
-Baselight v5 Training Manual
+
 
 In order to be effective when creating dailies, you must fully understand formats and the Render Panel described elsewhere in this mahual. Dailies delivery has very exacting requirements and the turnaround is typically within 24 hours \(there is a reason they are also called rushes\).
 
