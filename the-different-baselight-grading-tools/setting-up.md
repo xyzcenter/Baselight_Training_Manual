@@ -8,11 +8,11 @@ The Different Baselight Grading Tools
 
 This section will introduce you to the differences between:
 
-* ▪  Film Grade
-* ▪  Video Grade
-* ▪  Base Grade
+* Film Grade
+* Video Grade
+* Base Grade
 
-  Setting Up
+* * Setting Up
 
 The material that we discuss in this section may already be available on your training machine and the scenes for the exercise may already be created.
 
