@@ -1,4 +1,4 @@
-# Timeline Marks..59
+# Timeline Marks
 
 Baselight v5 Training Manual
 

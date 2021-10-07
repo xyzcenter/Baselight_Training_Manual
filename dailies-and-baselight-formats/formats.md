@@ -1,4 +1,4 @@
-# Formats ...... 71
+# Formats
 
 Baselight v5 Training Manual
 

@@ -1,4 +1,4 @@
-# Discovering the Base Grade ...... 43
+# Discovering the Base Grade
 
 Baselight v5 Training Manual
 

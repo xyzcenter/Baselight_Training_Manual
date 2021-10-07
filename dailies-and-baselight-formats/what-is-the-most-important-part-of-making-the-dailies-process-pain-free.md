@@ -1,4 +1,4 @@
-# What is the Most Important Part of Making the Dailies Process Pain-free? ...... 70
+# What is the Most Important Part of Making the Dailies Process Pain-free?
 
 Baselight v5 Training Manual
 

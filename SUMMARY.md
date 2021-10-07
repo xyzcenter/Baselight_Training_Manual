@@ -34,17 +34,17 @@
 * [Setting Up](the-different-baselight-grading-tools/setting-up.md)
 * [Why does Baselight have so many different grading tools?](the-different-baselight-grading-tools/why-does-baselight-have-so-many-different-grading-tools.md)
 * [Importing Shots from FLUX Manage and Copying Shots within a Timeline](the-different-baselight-grading-tools/importing-shots-from-flux-manage-and-copying-shots-within-a-timeline.md)
-* [Discovering the Base Grade ...... 43](the-different-baselight-grading-tools/discovering-the-base-grade-......-43.md)
+* [Discovering the Base Grade](the-different-baselight-grading-tools/discovering-the-base-grade.md)
 
 ## A Deeper Explanation of Base Grade
 
-* [Overview.... 47](a-deeper-explanation-of-base-grade/untitled-5.md)
+* [Overview](a-deeper-explanation-of-base-grade/overview.md)
 
 ## Baselight User Interface
 
-* [Understanding the UI.52](baselight-user-interface/untitled-3.md)
-* [Activating Caching.56](baselight-user-interface/untitled-2.md)
-* [Timeline Marks..59](baselight-user-interface/untitled-1.md)
+* [Understanding the UI](baselight-user-interface/understanding-the-ui.md)
+* [Activating Caching](baselight-user-interface/activating-caching.md)
+* [Timeline Marks](baselight-user-interface/timeline-marks.md)
 
 ## Exporting
 
@@ -53,13 +53,13 @@
 
 ## Dailies and Baselight Formats
 
-* [Dailies and Creating a Deliverable ..... 69](dailies-and-baselight-formats/untitled.md)
-* [What is the Most Important Part of Making the Dailies Process Pain-free? ...... 70](dailies-and-baselight-formats/what-is-the-most-important-part-of-making-the-dailies-process-pain-free-......-70.md)
-* [Formats ...... 71](dailies-and-baselight-formats/formats-......-71.md)
-* [What do we do with the Burnin? ..... 76](dailies-and-baselight-formats/what-do-we-do-with-the-burnin-.....-76.md)
+* [Dailies and Creating a Deliverable](dailies-and-baselight-formats/dailies-and-creating-a-deliverable.md)
+* [What is the Most Important Part of Making the Dailies Process Pain-free?](dailies-and-baselight-formats/what-is-the-most-important-part-of-making-the-dailies-process-pain-free.md)
+* [Formats](dailies-and-baselight-formats/formats.md)
+* [What do we do with the Burnin?](dailies-and-baselight-formats/what-do-we-do-with-the-burnin.md)
 
 ## Conforming
 
-* [Conforming a Sequence ...... 79](conforming/conforming-a-sequence-......-79.md)
-* [The EDL Import Window ..... 79](conforming/the-edl-import-window-.....-79.md)
+* [Conforming a Sequence](conforming/conforming-a-sequence.md)
+* [The EDL Import Window](conforming/the-edl-import-window.md)
 

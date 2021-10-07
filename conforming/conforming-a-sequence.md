@@ -1,4 +1,4 @@
-# Conforming a Sequence ...... 79
+# Conforming a Sequence
 
 Baselight v5 Training Manual
 

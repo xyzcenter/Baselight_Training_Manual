@@ -1,4 +1,4 @@
-# What do we do with the Burnin? ..... 76
+# What do we do with the Burnin?
 
 Baselight v5 Training Manual
 

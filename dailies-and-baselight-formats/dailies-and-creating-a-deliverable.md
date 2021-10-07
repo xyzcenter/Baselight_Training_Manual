@@ -1,4 +1,4 @@
-# Dailies and Creating a Deliverable ..... 69
+# Dailies and Creating a Deliverable
 
 Baselight v5 Training Manual
 

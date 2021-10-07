@@ -1,4 +1,4 @@
-# Understanding the UI.52
+# Understanding the UI
 
   
 Baselight User Interface
