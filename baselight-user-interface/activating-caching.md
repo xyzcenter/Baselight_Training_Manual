@@ -2,10 +2,10 @@
 
 If working on a Mac you may need to specify a directory to be used for the image cache. This can be done at the top of the ‘System’ page in the preference settings. A restart will be necessary to save any changes made.
 
-Let’s open scene’s settings to check that caching is activated. 1 Go to the Views menu and Choose Scene Settings.
+Let’s open scene’s settings to check that caching is activated. 
 
+1. Go to the Views menu and Choose Scene Settings.
 
-Baselight User Interface 56
 
 
 
