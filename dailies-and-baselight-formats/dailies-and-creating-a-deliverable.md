@@ -10,9 +10,11 @@ Dailies and Creating a Deliverable
 
 This chapter will teach you how to set up a Dailies scene. It will build on your knowledge of formats and it will show you how to activate Masks and Burnins.
 
+{% hint style="info" %}
 What are Dailies?
 
 Dailies refers to the process of getting the camera files from the day’s shoot into a format viewable by various member of the film crew and editorial staff.
+{% endhint %}
 
 Some of you may have worked on a dailies project and some students will have heard the term without understanding the process.
 

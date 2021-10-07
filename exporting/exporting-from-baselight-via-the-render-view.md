@@ -20,26 +20,34 @@ If the markers are not still visible on the timeline, please re-insert them by p
 
 If you wish to delete markers and reinsert them, you can use the shortcut Ctrl+Shift+L, which clears all markers. Use the L shortcut to reinsert a marker \(also notice that this shortcut is actually a toggle: if the cursor is parked on a marker, pressing L will also delete it\).
 
+{% hint style="info" %}
 Markers are also useful to specify frames that you need to render. In either camera test or dailies sessions, it is very normal to be asked to render single frames, also known as stills. These stills are often used as reference frames by the camera team.
+{% endhint %}
+
 
 Let’s do your first Baselight render. If you decided to experiment and create a completely new scene, please ensure that it contains markers.
 
 
-
-
+Image 83. Markers in the Baselight timeline.
 
 You will now open the Render View.  
- 1 Go to the Views Menu and select Render or press Ctrl+R.
+1. Go to the Views Menu and select Render or press Ctrl+R.
 
-2 Take a few moments just to look at the Render View. It certainly does have a lot of options, but once you start to understand the logic it’s fairly simple.
+2. Take a few moments just to look at the Render View. It certainly does have a lot of options, but once you start to understand the logic it’s fairly simple.
 
 Have you noticed the section that asks which Frames you want to render?
+
+
+
+
 
 Image 85. First section of the Render panel.
 
 Hopefully this should make sense. It’s either All Frames or specifically Selected Frames \(there is a drop- down menu where you see the words Select Frames\).
 
 Now look at the row of tabs labelled Output. These refer to the types of files you want to output.
+
+
 
 Image 86. First and second sections of the Render View. Here we are rendering just two frames, 489 and 1393.
 

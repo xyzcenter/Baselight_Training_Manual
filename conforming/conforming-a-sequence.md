@@ -10,9 +10,9 @@ This chapter will teach you about conforming from an AAF EDL \(Edit Decision Lis
 
 The EDL Import Window
 
-1. 1  From the Job Manager, select the camera\_test job \(you will have created this in the first section of this guide.\)
-2. 2  From Scene column, use the action button and choose New Scene.
-3. 3  The New Scene window prompts you for information.
+1. From the Job Manager, select the camera\_test job \(you will have created this in the first section of this guide.\)
+2. From Scene column, use the action button and choose New Scene.
+3. The New Scene window prompts you for information.
 
 Remember that when you create a scene, you have to know the frame rate of the material you are using. You can see the frame rate of the material in FLUX Manage.
 
@@ -20,7 +20,7 @@ For today’s exercise, the frame rate is 25fps and we will use an HD1920x1080 r
 
 You will also need to set a working colour space. As before, choose a wide-gamut colour space such as ARRI Log-C, ACES or FilmLight T-Log E Gamut.
 
-4 Enter the required information and click Done.
+4. Enter the required information and click Done.
 
 When the scene has been created, you will see the name of the job and scene on the top right corner of the Baselight user interface.
 
@@ -35,8 +35,8 @@ Image 110. The EDL Import window when first opened. The red arrow points to the 
 
 With the EDL Import window open, the first thing you will need to do is to navigate to the folder where you have stored the EDL file. In this example, we are using an AAF file. You will also need to tell Baselight where to look for the images.
 
-1. 6  Select the icon resembling a piece of paper to browse for the AAF file.
-2. 7  Navigate to /images1/conform and select BaselightSTUDENT\_Conform\_Tutorial.aaf.
+6.  Select the icon resembling a piece of paper to browse for the AAF file.
+7.  Navigate to /images1/conform and select BaselightSTUDENT\_Conform\_Tutorial.aaf.
 
 Baselight will extract the proper frame rate from the EDL. You will note that you cannot change this field. The EDL you are using is 25fps to match the 25fps media that you are about to conform.
 
@@ -48,7 +48,7 @@ The next thing you need to do is tell Baselight where to look for the images. Yo
 
 Image 112. The EDL import window after both the AAF file and Search Directory paths have been chosen.
 
-8 Click the Search Directory field and navigate to /images1/conform.
+8. Click the Search Directory field and navigate to /images1/conform.
 
 At the most basic level, you need to know the locations of your EDL file and the relevant media. You will notice on the EDL Import window there are lots of options you can manually set, but sometimes it’s easiest to simply tell Baselight to try all options and let it try to complete the conform.
 
@@ -56,7 +56,7 @@ The Try All Options method has pros and cons. Often the editing may take place e
 
 However, Baselight really will try all options and so it will present you with many possible versions of the conform. Each version is presented to you in a different tab. You could quite easily end up with 20 versions of the conform. It’s up to you to choose the one that the editor intended.
 
-9 Go on, give it a go. Press Start Conform without setting any other further information and let Baselight run for a few moments.
+9. Go on, give it a go. Press Start Conform without setting any other further information and let Baselight run for a few moments.
 
 You will end with a number of tabs. Each one of these tabs represents a different version of the conform. As you click through the tabs, you will see that the options in the EDL Import window will change. Each version is a variation on these options.
 
@@ -68,7 +68,7 @@ A couple of tips for achieving accurate conforms: Look at the clips’ metadata 
 
 Let’s quickly open one of the browsing tools and have a look at the metadata. Think of metadata as information about the clip and keep in mind that it is typically stored in file header of a clip.
 
-10 Open FLUX Manage and select one of the clips that will form part of the conform. If you look to the right of the window with a clip selected you should see certain information relating to the clip including resolution, timecode and filename.
+10. Open FLUX Manage and select one of the clips that will form part of the conform. If you look to the right of the window with a clip selected you should see certain information relating to the clip including resolution, timecode and filename.
 
 Even with just a small amount of information such as timecode, we can ensure the conform is more efficient. Remember the more accurate you can be with the conform options, the quicker the conform will
 
@@ -86,19 +86,19 @@ Now let’s turn our attention to the image file path. If we look at any of the 
 
 Let’s try and fill in some of the options in the EDL Window. We at least know we can tell Baselight to use timecode as one of the options because we have seen timecode in the clips’ metadata.
 
-1. 11  Set the Search Order field to Timecode.
-2. 12  Set the Timecode Location to Header.
-3. 13  Now click Start Conform again. You will see fewer conform variations presented because you have limited the possibilities to only those involving timecode.
+11.  Set the Search Order field to Timecode.
+12.  Set the Timecode Location to Header.
+13.  Now click Start Conform again. You will see fewer conform variations presented because you have limited the possibilities to only those involving timecode.
 
 The next option in the EDL Import window is Overwrite Tape Name. We have seen how the clips are laid out on disk and there is no tape name mentioned in the path.
 
-14 Click the Overwrite Tape Name drop-down menu and choose With Filename.
+14. Click the Overwrite Tape Name drop-down menu and choose With Filename.
 
 Image 115. The EDL Import window showing the first set of conform options selected. We can see conform variations will be limited to those involving timecode.
 
-1. 15  Also select Match Events by Filename.
-2. 16  Now click Start Conform again. You should end up with a single conform \(if you end up with 100% and a 0% conform, just make sure the 100% is selected\).
-3. 17  Click Done.
+15.  Also select Match Events by Filename.
+16.  Now click Start Conform again. You should end up with a single conform \(if you end up with 100% and a 0% conform, just make sure the 100% is selected\).
+17.  Click Done.
 
 Image 116. The EDL Import window showing completed conform limited by several options discussed.
 

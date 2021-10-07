@@ -14,36 +14,25 @@ This chapter will help you further understand the Baselight interface. We base t
 
 ![Image 66. The Baselight menu bar, which appears at the top of the Baselight user interface. In the screengrab the camera\_test:day\_1 scene is open, as is indicated at the top right corner of the interface.](../.gitbook/assets/2021-10-07-23.06.29.png)
 
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px Calibri; color: \#000000}  
-span.s1 {font: 11.0px Helvetica}
-
-If you wish to create a new scene with your own images you can do so from the Scene Column of the Job Manager. As in the first section you would use the actions button and choose New Scene.
+2. If you wish to create a new scene with your own images you can do so from the Scene Column of the Job Manager. As in the first section you would use the actions button and choose New Scene.
 
 {% hint style="info" %}
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px Calibri; color: \#000000}
-
 Remember when you create a new scene the software will prompt you for a working format \(a base resolution\), a Working Colour Space and a working frame rate.
 {% endhint %}
 
 ![Image 67. New Scene Window - when right-clicking on third column, a new menu opens giving the option to select New Scene \(highlighted in blue\).](../.gitbook/assets/2021-10-07-23.07.28.png)
 
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px Calibri; color: \#000000}
-
 Remember the scene’s Working Colour Space can be likened to how much room you have available to you when you access available colour. In a small Colour Space, you only have so much room. Imagine a painter’s palette: you need to have a palette that can paint all the colours the camera can produce, as well as all the colours the audience’s intended display can produce. With a smaller Colour Space you may not have access to all of these colours so it is important to determine the correct Colour Spaces.
 
 The Working Colour Space has no effect on the colour of an image before you start grading, irrespective of the Colour Space you choose. It will not affect how your picture physically looks before you start grading.
 
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px Calibri; color: \#000000}  
-span.s1 {font: 11.0px 'Arial Unicode MS'}
 
 However, if you start grading and then change your Colour Space the grade would be changed. Never change the Working Colour Space after you begin to grade.
 
-3 If you are creating a new scene, you also need to go to the Views menu and open FLUX Manage and insert a few clips.
+3. If you are creating a new scene, you also need to go to the Views menu and open FLUX Manage and insert a few clips.
 
 ![Image 68. New Scene window](../.gitbook/assets/2021-10-07-23.09.17.png)
 
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px Calibri; color: \#000000}  
-span.s1 {font: 11.0px Symbol}
 
 We have showed you the three important user interface areas where you set colour spaces:
 
@@ -54,8 +43,6 @@ We have showed you the three important user interface areas where you set colour
 • The Viewing Colour Space, which must always match your viewing device.
 
 {% hint style="info" %}
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 11.0px Calibri; color: \#000000}
-
 Also, please note if you forgot which colour space you chose in the previous section you can double check this by opening the Scene Settings window from the Views menu and selecting the Format & Colour tab.
 {% endhint %}
 
@@ -67,25 +54,32 @@ You will now start to explore some of Baselight’s menus.
 
 The first menu at the top of the user interface is the Baselight menu. This menu contains a number of useful sub menus, one of which is ‘About Baselight’ where you can view which version of the software is installed.
 
+
+{% hint style="info" %}
 If you ever have to contact Baselight Support for assistance, the first question they will ask you is what version are you using, so don’t forget where to look.
+{% endhint %}
+
 
 Other useful options are the Preferences and Formats menus. Preferences allow you to set things such as the size of the font text on the Baselight interface or whether you want to be able to drag and drop clips to different positions in the timeline.
 
+
+{% hint style="info" %}
 Note that Preferences are ‘per-user’ so if you log into the Baselight system under a different user name, you may get a different set of preferences.
+{% endhint %}
 
 The Formats Window lets you create new resolution templates for Baselight. Let’s say you have some media with a resolution of 1828x988, but you don’t see this resolution in any of the Baselight’s default formats. Baselight will use a basic ‘fit-width’ mapping for formats which are not defined in the existing formats list.
 
 The menus that follow the Baselight menu provide access to the sub-menus for all the main functions in the system. A useful one to open is the Help menu as it has options to open documents like the Baselight Keyboard Shortcuts and Blackboard Button Reference.
 
-![](../.gitbook/assets/2021-10-07-23.13.14.png)
+![Image 71. Message Log window. The large arrow points to the message log indicator; the smaller arrow points to the playback/caching indicators.](../.gitbook/assets/2021-10-07-23.13.14.png)
 
-Image 71. Message Log window. The large arrow points to the message log indicator; the smaller arrow points to the playback/caching indicators.
+
 
 Now look towards the upper right of the interface. You can see a small triangle symbol with an exclamation mark. Click the triangle and it will open the Message Log. Here Baselight lists errors or other useful information that relate to the timeline.
 
-![](../.gitbook/assets/2021-10-07-23.14.30.png)
+![Image 72. Top right corner of the menu bar.](../.gitbook/assets/2021-10-07-23.14.30.png)
 
-Image 72. Top right corner of the menu bar.
+
 
 The next icon looks like three stripes . If you are not playing the timeline, these stripes are grey. If you press play \(press the Spacebar on your keyboard, or use the play controls on your Slate or Blackboard\), you will notice that they probably become green.
 
