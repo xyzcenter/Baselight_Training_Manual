@@ -1,7 +1,5 @@
 # Exporting from Baselight via the Render View
 
-
-
 This section uses the Bar Scene images provided in:
 
 generalised\_colourspaces\_v01/0\_media/0\_images/BarScene
@@ -24,22 +22,16 @@ If you wish to delete markers and reinsert them, you can use the shortcut Ctrl+S
 Markers are also useful to specify frames that you need to render. In either camera test or dailies sessions, it is very normal to be asked to render single frames, also known as stills. These stills are often used as reference frames by the camera team.
 {% endhint %}
 
-
 Let’s do your first Baselight render. If you decided to experiment and create a completely new scene, please ensure that it contains markers.
-
 
 Image 83. Markers in the Baselight timeline.
 
 You will now open the Render View.  
 1. Go to the Views Menu and select Render or press Ctrl+R.
 
-2. Take a few moments just to look at the Render View. It certainly does have a lot of options, but once you start to understand the logic it’s fairly simple.
+1. Take a few moments just to look at the Render View. It certainly does have a lot of options, but once you start to understand the logic it’s fairly simple.
 
 Have you noticed the section that asks which Frames you want to render?
-
-
-
-
 
 Image 85. First section of the Render panel.
 
@@ -47,21 +39,13 @@ Hopefully this should make sense. It’s either All Frames or specifically Selec
 
 Now look at the row of tabs labelled Output. These refer to the types of files you want to output.
 
-
-
 Image 86. First and second sections of the Render View. Here we are rendering just two frames, 489 and 1393.
 
 We will eventually be outputting JPEG stills. For this reason, we would not choose Movies and we don’t have Audio, so the logical option is Sequences.
 
 We will also need to select a Render Format and a Colour Space.
 
-
-
-
-
 Image 87. Render View now with the Format and Colour Space added. Frames 489 and 1393 will be rendered as JPEG and as 1920x1080.
 
 Take a few moments to familiarise yourself with the Render View. When you are ready, proceed to the next section.
-
-
 

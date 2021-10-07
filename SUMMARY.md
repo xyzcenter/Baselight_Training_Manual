@@ -2,7 +2,7 @@
 
 * [베이스라이트 트레이닝 메뉴얼](README.md)
 * [문서 - 저작권 안내](untitled.md)
-* [목차](undefined.md)
+* [목차](toc.md)
 
 ## Getting Started
 
