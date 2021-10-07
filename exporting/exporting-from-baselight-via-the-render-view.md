@@ -1,4 +1,4 @@
-# Exporting from Baselight via the Render View ...... 62
+# Exporting from Baselight via the Render View
 
 Baselight v5 Training Manual
 

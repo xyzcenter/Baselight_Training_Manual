@@ -1,6 +1,4 @@
-# Setting up the Render View ...... 64
-
-
+# Setting up the Render View
 
 You can now start to set up your render options. Your task is to export just the marked frames from the timeline. Remember when we talk about “rendering”, we really mean just exporting files from Baselight.
 
@@ -16,15 +14,7 @@ Image 88. Select Frames drop down menu.
 
 If you have followed the instructions from the previous sections, just two frame numbers will appear in the Frames To Render field. They don’t have to be the same frame numbers as shown in the screengrab, however you should see frame numbers separated by a comma. We need to see something similar to the example in the image below. So, remember the goal of the exercise is to render the frames we have marked in the timeline.
 
-
-
-
-
 Image 89. Frames To Render field.
-
-
-
-
 
 Now you can choose your file type. If you are using Baselight STUDENT, the only file type you can choose for stills is JPEG. If you are using a full version of Baselight, you will be able to choose other formats such as TIFF and DPX.
 
@@ -43,12 +33,6 @@ In Baselight, if you have set your scene up correctly, you can render to any col
 
 8 Click on the Render Colour Space drop-down menu and you will see a list of colour spaces. Choose sRGB: ~2.2 Gamma / Rec 709 in order to match the display type of the DOP’s laptop.
 
-
-
-
-
-
-
 Image 91. Some of the colour spaces available to you when you click on the Render Colour Space option.
 
 Here is a useful tip to help you understand colour spaces. When you see a camera icon beside the colour space name, it generally indicates a colour space in which the images were captured. The more technically-gifted people in the FilmLight crew will call this a “Scene-referred Colour Space”, but we don’t need to get too technical. Not just yet anyway.
@@ -58,12 +42,6 @@ If you see a small monitor beside the name of a colour space, this is generally 
 To keep it simple, just remember: the camera icon indicates colour spaces used when capturing an image; the monitor icon indicates colour spaces used when viewing images.
 
 Image 92. The output directory for your render.
-
-
-
-
-
-
 
 The final step in this exercise is to understand where you are placing your images on disk. We have included another section in the Render panel screengrab above. You can see the Directory field - this is where your files will appear after you have finished your render. You also see the Container field.
 
@@ -78,7 +56,7 @@ Image 93. The Directory field. This shows us the template for where files will b
 No doubt you are wondering why we have some funny looking entries next to the Container label. It all makes sense really. REALLY.
 
 Remember the First File entry on the Render Panel \(see above image\) will tell you the directory path where your files are being written.  
- A quick word about those funny looking % codes.
+A quick word about those funny looking % codes.
 
 Now let’s look at the meaning of %J and %S.
 
@@ -91,13 +69,7 @@ So, by default Baselight writes files into a folder that is the name of your job
 If you are having a hard time grasping this, remember to check the First File field. This will show you the file path for your renders.
 
 OK, now it’s time to Render.  
- 9 If your settings look correct, click Submit Render.
-
-
-
-
-
-
+9 If your settings look correct, click Submit Render.
 
 The Queue Monitor should open and hopefully you will quickly see the magic word Done. The Queue Monitor also logs previous render information, so if you are on a Baselight system that is used by other people, the Queue Monitor is likely to hold information about previous renders.
 
@@ -108,10 +80,4 @@ You may want to try and locate the rendered files. Remember the First File field
 If you are using Baselight STUDENT, renders should be sent to: /images1/camera\_test/day1/, depending on your job and scene name.
 
 Rendering takes a little practice. Repeat this exercise a second time if required.
-
-
-
-
-
-
 

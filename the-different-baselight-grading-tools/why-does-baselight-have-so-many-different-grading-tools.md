@@ -1,7 +1,5 @@
 # Why does Baselight have so many different grading tools?
 
-
-
 It’s probably safe to say that the most used grading operators in Baselight are Film Grade and Video Grade. However, in version 5, we also offer Base Grade.
 
 The main thing to remember with Baselight is that you can use any or all of the operators in the same stack. You can use Film Grade with video material, and you can use Video Grade with film/log-encoded material. You can even use them both in the same layer. And, of course, you now have a third option, Base Grade.
@@ -14,13 +12,9 @@ The first DI project to use Film Grade was Chicken Run way back in 2000.
 
 Film Grade is fairly customizable and one of the main differences between Film Grade and Video Grade is that Film Grade can work in printer light units. We touched on how to set up your system to work with printer lights in earlier chapters. One method of doing so is via the Edit Menu which allows you to enable printer light bumps on the numeric keypad.
 
-
-
 After Film Grade came Video Grade.
 
 ![Image 46. Video Grade interface. Notice there are two modes in Video Grade: RGB and YCbCR.](../.gitbook/assets/2021-10-06-01.56.06.png)
-
-
 
 Video Grade has lift, gamma, and gain controls, along with saturation. In the past, the Video Grade was generally used for video or telecine style grading.
 
@@ -34,10 +28,6 @@ Whichever mode you choose to use is of course a simple question of taste. 1 Open
 
 ![Image 47. Scene menu with the Job Manager selected.](../.gitbook/assets/2021-10-06-01.56.47.png)
 
-
-
-
-
 2 The scenes that you are creating roughly have a similar tone curve. Please create three scenes each with the following working colour space
 
 * ACEScct
@@ -50,13 +40,7 @@ Whichever mode you choose to use is of course a simple question of taste. 1 Open
 
 ![Image 48. Scene dialogue box which is accessed from the Job Manager.](../.gitbook/assets/2021-10-06-01.57.24.png)
 
-
-
-
-
 \(By the way, when we talk about tone curves, we are referring an image’s distribution of shadows, midtones and highlights.\)
-
-
 
 As you create each scene, you will see the name of the open scene in the top right of the user interface. If you click on the name of the scene in the top right of the UI, you can jump between scenes.
 
@@ -66,31 +50,11 @@ In previous chapters, you were working with just one cursor. Because you now hav
 
 Active cursors are tied to the number keys on your keyboard. As you have 3 cursors available, you can press 1, 2, and 3 on your keyboard in order to jump to each cursor. Selecting a cursor makes its parent scene active.
 
-
-
 {% hint style="info" %}
-
-
 Also, please note that if you have kept the Job Manager open as you create each scene, a lock will appear next to the name of the scene. The lock indicates that the scene is not writable by any other user because you have it open.
 {% endhint %}
 
-
-
 Before you proceed make sure that the Job Manager is closed by clicking on the ‘x’ at the top left of the dialog.
 
-
-
-
-
 ![Image 49. Job Manager Window showing how the Job Manager looks when scenes are open.](../.gitbook/assets/2021-10-06-01.58.30.png)
-
-
-
-
-
-
-
-
-
-
 

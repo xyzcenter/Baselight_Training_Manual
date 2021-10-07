@@ -48,8 +48,8 @@
 
 ## Exporting
 
-* [Exporting from Baselight via the Render View ...... 62](exporting/untitled.md)
-* [Setting up the Render View ...... 64](exporting/setting-up-the-render-view-......-64.md)
+* [Exporting from Baselight via the Render View](exporting/exporting-from-baselight-via-the-render-view.md)
+* [Setting up the Render View](exporting/setting-up-the-render-view.md)
 
 ## Dailies and Baselight Formats
 

@@ -1,7 +1,5 @@
 # Dailies and Creating a Deliverable
 
-
-
 This section uses the images provided in:
 
 generalised\_colourspaces\_v01/0\_media/0\_images/BarScene
@@ -30,23 +28,9 @@ One of the first things that will happen when you start working on a dailies pro
 
 Another important discussion between editorial and the dailies department is whether Burnins will be applied to an image and what information those Burnins should contain.
 
-
-
-
-
 In today’s example, you will learn to render your images as movie files at a resolution of 1920x1080. Productions will often request this combo for use with editing systems. Your render will include a Mask \(blanking\) and a Burnin.
 
 Image 95. Image displayed with a Burnin.
 
 In previous sections, you learnt to render single frames. This time you will render whole sequences and you will also adhere to a fairly strict naming convention.
-
-
-
-
-
-
-
-
-
-
 

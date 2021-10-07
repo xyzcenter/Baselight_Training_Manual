@@ -1,7 +1,5 @@
 # Conforming a Sequence
 
-
-
 This section uses images and an EDL provided in:
 
 conform/
@@ -29,11 +27,7 @@ When the scene has been created, you will see the name of the job and scene on t
 Image 108. Top right corner of the Baselight user interface.
 
 You will now open the EDL Import window from the Views menu. 5 Go to the Views menu and select EDL Import.  
- Remember, a conform can only happen if a scene is open.
-
-
-
-
+Remember, a conform can only happen if a scene is open.
 
 Image 109. Open Views menu. EDL Import is selected.
 
@@ -45,12 +39,6 @@ With the EDL Import window open, the first thing you will need to do is to navig
 2. 7  Navigate to /images1/conform and select BaselightSTUDENT\_Conform\_Tutorial.aaf.
 
 Baselight will extract the proper frame rate from the EDL. You will note that you cannot change this field. The EDL you are using is 25fps to match the 25fps media that you are about to conform.
-
-
-
-
-
-
 
 Also, once you have selected an EDL, Baselight will display the raw EDL in a tab at the bottom of the EDL Import window. It is always useful to check the raw EDL as it will tell you what ‘events’ will be required for Baselight to rebuild the edit.
 
@@ -65,10 +53,6 @@ Image 112. The EDL import window after both the AAF file and Search Directory pa
 At the most basic level, you need to know the locations of your EDL file and the relevant media. You will notice on the EDL Import window there are lots of options you can manually set, but sometimes it’s easiest to simply tell Baselight to try all options and let it try to complete the conform.
 
 The Try All Options method has pros and cons. Often the editing may take place elsewhere and you may not know a lot about the EDL or the data it links to. Try All gives you a quick method of trying the most likely conform possibilities. You will definitely conform something.
-
-
-
-
 
 However, Baselight really will try all options and so it will present you with many possible versions of the conform. Each version is presented to you in a different tab. You could quite easily end up with 20 versions of the conform. It’s up to you to choose the one that the editor intended.
 
@@ -87,10 +71,6 @@ Let’s quickly open one of the browsing tools and have a look at the metadata. 
 10 Open FLUX Manage and select one of the clips that will form part of the conform. If you look to the right of the window with a clip selected you should see certain information relating to the clip including resolution, timecode and filename.
 
 Even with just a small amount of information such as timecode, we can ensure the conform is more efficient. Remember the more accurate you can be with the conform options, the quicker the conform will
-
-
-
-
 
 be. While you may not notice much of a change in this small tutorial example, you would definitely notice if you were conforming from a couple of terabytes worth of material.
 
@@ -114,14 +94,6 @@ The next option in the EDL Import window is Overwrite Tape Name. We have seen ho
 
 14 Click the Overwrite Tape Name drop-down menu and choose With Filename.
 
-
-
-
-
-
-
-
-
 Image 115. The EDL Import window showing the first set of conform options selected. We can see conform variations will be limited to those involving timecode.
 
 1. 15  Also select Match Events by Filename.
@@ -132,21 +104,7 @@ Image 116. The EDL Import window showing completed conform limited by several op
 
 Once you have selected Done, the EDL Import window will close and you are ready to apply a grade to your shots.
 
-
-
-
-
-
-
-
-
 If you wish to experiment further, try adding a single layer to each event/shot by using the P shortcut and practice applying a primary grade using Video Grade or the tool of your choice.
 
 Remember to save your scene before closing.
-
-
-
-
-
-
 
