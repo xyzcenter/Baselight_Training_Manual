@@ -1,6 +1,6 @@
 # Exporting from Baselight via the Render View
 
-Baselight v5 Training Manual
+
 
 This section uses the Bar Scene images provided in:
 
@@ -26,7 +26,7 @@ Let’s do your first Baselight render. If you decided to experiment and create 
 
 
 
-Baselight v5 Training Manual
+
 
 You will now open the Render View.  
  1 Go to the Views Menu and select Render or press Ctrl+R.
@@ -49,7 +49,7 @@ We will also need to select a Render Format and a Colour Space.
 
 
 
-Baselight v5 Training Manual
+
 
 Image 87. Render View now with the Format and Colour Space added. Frames 489 and 1393 will be rendered as JPEG and as 1920x1080.
 
